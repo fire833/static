@@ -12,6 +12,8 @@ metadata:
   name: grafana
   namespace: monitoring
 spec:
+  # Right now, let's only make one replica.
+  replicas: 1
   # Specify a "selector" of labels that will be used by the deployment controller to identify
   # The pods that it needs to control. Once it has identified these pods, it will work to maintain
   # the lifecycle of these pods. So let's say if one pod were to fail, the deployment controller
@@ -29,8 +31,6 @@ spec:
     # We can now get into the pod specification template that this deployment 
     # will create n replicas of on the cluster.
     spec:
-      # Right now, let's only make one replica.
-      replicas: 1
       # We can define the list of containers that will comprise this pod, let's just make one for now.
       containers:
       - name: grafana

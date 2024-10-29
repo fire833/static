@@ -23,4 +23,7 @@ spec:
   # Define the type of this service, this is kind of beyond the scope for this talk.
   # Basically, by making it a LoadBalancer type, we are able to expose it with a "public"
   # IP on my infrastructure.
-  type: LoadBalancer
+  # type: LoadBalancer
+  
+  # This will be a solely internal-facing service, but you can access it via port-forwarding.
+  type: ClusterIP
