@@ -1,10 +1,15 @@
 ---
-apiVersion: v1
+apiVersion: v1 # This is mostly boilerplate, corresponds to what API routes this serialized resource will be POSTed to.
 kind: ConfigMap
 metadata:
-  name: grafana-conf
-immutable: false
+  name: grafana-conf # Keep the metadata simple with a name.
+  namespace: monitoring
+# This configmap is not going to change throughout the life of the resource.
+# This provides some performance benefits as kubelet does not have to watch 
+# for changes to the CM from the API server.
+immutable: true 
 data:
+  # Key-value data, in this case, config pointing to a string containing our grafana configuration.
   config: |
     app_mode = development
     instance_name = test-grafana

@@ -1,5 +1,10 @@
+# This file should be deployed third, please deploy the following files before this one:
+#
+# https://static.tauser.us/k8s_demo/grafana_config.yaml
+# https://static.tauser.us/k8s_demo/grafana_service.yaml
+
 ---
-apiVersion: apps/v1
+apiVersion: apps/v1 # This is mostly boilerplate, corresponds to what API routes this serialized resource will be POSTed to.
 kind: Deployment
 metadata:
   labels:
@@ -7,38 +12,61 @@ metadata:
   name: grafana
   namespace: monitoring
 spec:
+  # Specify a "selector" of labels that will be used by the deployment controller to identify
+  # The pods that it needs to control. Once it has identified these pods, it will work to maintain
+  # the lifecycle of these pods. So let's say if one pod were to fail, the deployment controller
+  # would see that and would spin up a new pod.
   selector:
     matchLabels:
       app: grafana
   template:
     metadata:
-      labels:
+      # These labels need to be the same as the matchLabels block above. 
+      # These will also be referenced within the service so the service 
+      # can identify which pods it should route traffic to.
+      labels: 
         app: grafana
+    # We can now get into the pod specification template that this deployment 
+    # will create n replicas of on the cluster.
     spec:
+      # Right now, let's only make one replica.
+      replicas: 1
+      # We can define the list of containers that will comprise this pod, let's just make one for now.
       containers:
       - name: grafana
         image: docker.io/grafana/grafana:11.3.0
         imagePullPolicy: IfNotPresent
+        # The exposed ports for this pod.
         ports:
-          - containerPort: 3000
-            name: http-grafana
-            protocol: TCP
+          - containerPort: 3000 # The port that is exposed
+            name: http-grafana # Name for the port (you can use this name in port identification on services instead of the number)
+            protocol: TCP # Self-explanatory.
+        # Resource requests and limits for the pod, keep it simple.
         resources:
-          requests:
+          limits:
+            cpu: 100m # 100 milli cpu, or roughly 1/10th of a single CPU core should be utilized for this container.
+            # 200 megabytes as the memory limit to be allocated for this container. If you go over this limit
+            # the kernel will kill your process and k8s will report an OOM error (Out of memory error).
+            memory: 200Mi
+          requests: 
             cpu: 100m
             memory: 200Mi
-          limits: 
-            cpu: 100m
-            memory: 200Mi
+        # We wish for the contents of the volume `config` to be mounted within the container
+        # at /etc/grafana, and it should be read-only.
         volumeMounts:
         - mountPath: /etc/grafana
           name: config
           readOnly: true
       volumes:
+          # We only have one volume for this pod, and it is derived from the configMap that we already deployed.
         - name: config
           configMap:
+            # Reference the name of the configMap that we already deployed.
             name: grafana-conf
-            defaultMode: 0444
-            items:
-            - key: config
-              path: grafana.ini
+            defaultMode: 0444 # Make the default mode readonly
+            items: # Now, for every key-value pair within the configmap that we wish to mount into the container, we specify it here
+            - key: config # We want the `config` key from the configMap to be mounted.
+              # and we want it to mount at grafana.ini. SO, the final mount point for 
+              # this file within the container will be /etc/grafana/grafana.ini, which 
+              # so happens to be the default config location for grafana.
+              path: grafana.ini 

@@ -1,18 +1,26 @@
 ---
-apiVersion: v1
+apiVersion: v1 # This is mostly boilerplate, corresponds to what API routes this serialized resource will be POSTed to.
 kind: Service
 metadata:
-  name: demo-grafana
+  name: demo-grafana # Keep the metadata simple with a name.
   namespace: monitoring
   annotations:
+    # This is some boilerplate that is needed to get an IP address to access our instance on my cluster infrastructure.
     metallb.universe.tf/loadBalancerIPs: 10.0.55.65
+# Service specification
 spec:
+  # Define an array of ports that will be exported by this service and forwarded to selected pods.
   ports:
-  - name: http
-    port: 80
-    protocol: TCP
-    targetPort: 3000
+  - name: http # Name of the port
+    port: 80 # The port that will be exposed on 10.0.55.65 
+    protocol: TCP # Protocol, self-explanatory
+    targetPort: 3000 # The port of the container that the service will route to, this plus `port` is similar to 
   selector:
     app: grafana
+  # Keep sessions sticky according to client IP address.
+  # This is mostly only useful if we were to actually load balance against multiple backends.
   sessionAffinity: ClientIP
+  # Define the type of this service, this is kind of beyond the scope for this talk.
+  # Basically, by making it a LoadBalancer type, we are able to expose it with a "public"
+  # IP on my infrastructure.
   type: LoadBalancer
