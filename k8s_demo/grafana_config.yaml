@@ -1,0 +1,29 @@
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: grafana-conf
+immutable: false
+data:
+  config: |
+    app_mode = development
+    instance_name = test-grafana
+
+    [server]
+    protocol = http
+    http_addr = 0.0.0.0
+    http_port = 3000
+    enable_gzip = true
+    
+    [security]
+    cookie_samesite = strict
+    strict_transport_security = true
+    x_content_type_options = true
+    x_xss_protection = true
+    content_security_policy = false
+    
+    [auth.anonymous]
+    enabled = true
+    
+    [auth.basic]
+    enabled = false
