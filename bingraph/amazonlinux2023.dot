@@ -1,0 +1,2076 @@
+digraph bingraph {
+
+  "libpcre2-8.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpcre2-8.so.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkrad.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libkrad.so.0\nOutdegree: 10\nBetweeness: 0.000049688111545988256\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libncurses.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libncurses.so.6.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpm.so.9" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/librpm.so.9\nOutdegree: 15\nBetweeness: 0.00006497676125244618\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpmsign.so.9" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/librpmsign.so.9\nOutdegree: 15\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libglib-2.0.so.0.7400.7" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libglib-2.0.so.0.7400.7\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmagic.so.1.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmagic.so.1.0.0\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libglib-2.0.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libglib-2.0.so.0\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgobject-2.0.so.0.7400.7" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgobject-2.0.so.0.7400.7\nOutdegree: 3\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmemusage.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmemusage.so\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnssckbi.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libnssckbi.so\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libthread_db.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libthread_db.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnpth.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libnpth.so.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libyaml-0.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libyaml-0.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgmp.so.10.4.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgmp.so.10.4.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libaudit.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libaudit.so.1\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnghttp2.so.14.26.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libnghttp2.so.14.26.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libblkid.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libblkid.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcap.so.2.48" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcap.so.2.48\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libutil.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libutil.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libassuan.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libassuan.so.0\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgomp.so.1.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgomp.so.1.0.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libacl.so.1.1.2301" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libacl.so.1.1.2301\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnss_dns.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libnss_dns.so.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libstdc++.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libstdc++.so.6\nOutdegree: 4\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "liblua-5.4.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/liblua-5.4.so\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpm.so.9.1.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/librpm.so.9.1.3\nOutdegree: 15\nBetweeness: 0.00006497676125244618\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcrypto.so.3.0.8" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcrypto.so.3.0.8\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgio-2.0.so.0.7400.7" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgio-2.0.so.0.7400.7\nOutdegree: 7\nBetweeness: 0.00004204378669275929\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsigsegv.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libsigsegv.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "liblz4.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/liblz4.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkeyutils.so.1.10" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libkeyutils.so.1.10\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libjson-c.so.5.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libjson-c.so.5.0.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmenu.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmenu.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libuuid.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libuuid.so.1\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libz.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libz.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmount.so.1.1.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmount.so.1.1.0\nOutdegree: 3\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdnf.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libdnf.so.2\nOutdegree: 17\nBetweeness: 0.00020639677103718198\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgio-2.0.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgio-2.0.so.0\nOutdegree: 7\nBetweeness: 0.00004204378669275929\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmodulemd.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmodulemd.so.2\nOutdegree: 7\nBetweeness: 0.00007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdrop_ambient.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libdrop_ambient.so.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpopt.so.0.0.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpopt.so.0.0.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmenuw.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmenuw.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libSegFault.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libSegFault.so\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libasm-0.188.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libasm-0.188.so\nOutdegree: 4\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgcc_s.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgcc_s.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpcre2-8.so.0.11.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpcre2-8.so.0.11.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libncurses.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libncurses.so.6\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpanelw.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpanelw.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmenuw.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmenuw.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkrb5support.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libkrb5support.so.0\nOutdegree: 5\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcom_err.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcom_err.so.2\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libuuid.so.1.3.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libuuid.so.1.3.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgcc_s-11-20230605.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgcc_s-11-20230605.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libunistring.so.2.1.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libunistring.so.2.1.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libassuan.so.0.8.5" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libassuan.so.0.8.5\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libidn2.so.0.3.7" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libidn2.so.0.3.7\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnpth.so.0.1.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libnpth.so.0.1.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdrop_ambient.so.0.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libdrop_ambient.so.0.0.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsolvext.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libsolvext.so.1\nOutdegree: 9\nBetweeness: 0.00007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libncursesw.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libncursesw.so.6.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libattr.so.1.1.2501" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libattr.so.1.1.2501\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libjson-c.so.5" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libjson-c.so.5\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libyaml-0.so.2.0.9" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libyaml-0.so.2.0.9\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libssl.so.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libssl.so.3\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcom_err.so.2.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcom_err.so.2.1\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgpg-error.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgpg-error.so.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkdb5.so.10.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libkdb5.so.10.0\nOutdegree: 9\nBetweeness: 0.00005351027397260274\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libselinux.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libselinux.so.1\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libncursesw.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libncursesw.so.6\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libc_malloc_debug.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libc_malloc_debug.so.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmount.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmount.so.1\nOutdegree: 3\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libaudit.so.1.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libaudit.so.1.0.0\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdl.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libdl.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmvec.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmvec.so.1\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "liblzma.so.5" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/liblzma.so.5\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmpfr.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmpfr.so.6\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgssrpc.so.4" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgssrpc.so.4\nOutdegree: 8\nBetweeness: 0.000049688111545988256\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libk5crypto.so.3.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libk5crypto.so.3.1\nOutdegree: 6\nBetweeness: 0.00003439946183953033\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsigsegv.so.2.0.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libsigsegv.so.2.0.6\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libhistory.so.8" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libhistory.so.8\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libxml2.so.2.10.4" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libxml2.so.2.10.4\nOutdegree: 4\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libtic.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libtic.so.6\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libauparse.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libauparse.so.0\nOutdegree: 3\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgdbm_compat.so.4.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgdbm_compat.so.4.0.0\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsmartcols.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libsmartcols.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkrad.so.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libkrad.so.0.0\nOutdegree: 10\nBetweeness: 0.000049688111545988256\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgssapi_krb5.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgssapi_krb5.so.2\nOutdegree: 8\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libssl.so.3.0.8" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libssl.so.3.0.8\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkrb5.so.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libkrb5.so.3\nOutdegree: 7\nBetweeness: 0.00004204378669275929\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libhistory.so.8.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libhistory.so.8.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpmsign.so.9.1.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/librpmsign.so.9.1.3\nOutdegree: 15\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgcrypt.so.20" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgcrypt.so.20\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libformw.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libformw.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libblkid.so.1.1.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libblkid.so.1.1.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpcre2-posix.so.3.0.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpcre2-posix.so.3.0.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdw-0.188.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libdw-0.188.so\nOutdegree: 7\nBetweeness: 0.00002675513698630137\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpsx.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpsx.so.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpthread.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpthread.so.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsolv.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libsolv.so.1\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpanel.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpanel.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmenu.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmenu.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdw.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libdw.so.1\nOutdegree: 7\nBetweeness: 0.00002675513698630137\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "ld-linux-x86-64.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/ld-linux-x86-64.so.2\nOutdegree: 0\nBetweeness: 0\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libreadline.so.8" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libreadline.so.8\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsepol.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libsepol.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libverto.so.1.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libverto.so.1.0.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libtasn1.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libtasn1.so.6\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpmio.so.9.1.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/librpmio.so.9.1.3\nOutdegree: 11\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libzstd.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libzstd.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libresolv.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libresolv.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkrb5.so.3.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libkrb5.so.3.3\nOutdegree: 7\nBetweeness: 0.00004204378669275929\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libbz2.so.1.0.8" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libbz2.so.1.0.8\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libunistring.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libunistring.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libreadline.so.8.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libreadline.so.8.1\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libm.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libm.so.6\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libstdc++.so.6.0.29" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libstdc++.so.6.0.29\nOutdegree: 4\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libformw.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libformw.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libxml2.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libxml2.so.2\nOutdegree: 4\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libanl.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libanl.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libattr.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libattr.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpsl.so.5.3.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpsl.so.5.3.3\nOutdegree: 3\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsqlite3.so.0.8.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libsqlite3.so.0.8.6\nOutdegree: 3\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpopt.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpopt.so.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpcre2-posix.so.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpcre2-posix.so.3\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libauparse.so.0.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libauparse.so.0.0.0\nOutdegree: 3\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpanelw.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpanelw.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgobject-2.0.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgobject-2.0.so.0\nOutdegree: 3\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libarchive.so.13.7.4" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libarchive.so.13.7.4\nOutdegree: 9\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcrypt.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcrypt.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libexpat.so.1.9.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libexpat.so.1.9.3\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpsx.so.2.48" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpsx.so.2.48\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkeyutils.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libkeyutils.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgomp.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgomp.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libz.so.1.2.11" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libz.so.1.2.11\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpsl.so.5" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpsl.so.5\nOutdegree: 3\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpcprofile.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpcprofile.so\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libasm.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libasm.so.1\nOutdegree: 4\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkdb5.so.10" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libkdb5.so.10\nOutdegree: 9\nBetweeness: 0.00005351027397260274\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsqlite3.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libsqlite3.so.0\nOutdegree: 3\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libarchive.so.13" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libarchive.so.13\nOutdegree: 9\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgdbm_compat.so.4" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgdbm_compat.so.4\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libzstd.so.1.5.5" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libzstd.so.1.5.5\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpython3.9.so.1.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpython3.9.so.1.0\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "liblz4.so.1.9.4" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/liblz4.so.1.9.4\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgthread-2.0.so.0.7400.7" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgthread-2.0.so.0.7400.7\nOutdegree: 1\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libidn2.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libidn2.so.0\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcurl.so.4.8.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcurl.so.4.8.0\nOutdegree: 8\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "liblzma.so.5.2.5" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/liblzma.so.5.2.5\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libform.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libform.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libc.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libc.so.6\nOutdegree: 1\nBetweeness: 0.000003822162426614481\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libacl.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libacl.so.1\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libtic.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libtic.so.6.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsmartcols.so.1.1.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libsmartcols.so.1.1.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcap.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcap.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmpfr.so.6.1.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmpfr.so.6.1.0\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libtasn1.so.6.6.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libtasn1.so.6.6.3\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "p11-kit-proxy.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/p11-kit-proxy.so\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcap-ng.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcap-ng.so.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libBrokenLocale.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libBrokenLocale.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgpg-error.so.0.32.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgpg-error.so.0.32.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgmodule-2.0.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgmodule-2.0.so.0\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpmbuild.so.9" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/librpmbuild.so.9\nOutdegree: 20\nBetweeness: 0.00008790973581213307\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcrypto.so.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcrypto.so.3\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcomps.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcomps.so.0\nOutdegree: 4\nBetweeness: 0.00002675513698630137\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcap-ng.so.0.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcap-ng.so.0.0.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libk5crypto.so.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libk5crypto.so.3\nOutdegree: 6\nBetweeness: 0.00003439946183953033\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmodulemd.so.2.13.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmodulemd.so.2.13.0\nOutdegree: 7\nBetweeness: 0.00007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpanel.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpanel.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libp11-kit.so.0.3.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libp11-kit.so.0.3.0\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libform.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libform.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libtinfo.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libtinfo.so.6\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgdbm.so.6.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgdbm.so.6.0.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmagic.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libmagic.so.1\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgmodule-2.0.so.0.7400.7" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgmodule-2.0.so.0.7400.7\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgpgme.so.11" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgpgme.so.11\nOutdegree: 4\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgthread-2.0.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgthread-2.0.so.0\nOutdegree: 1\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnghttp2.so.14" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libnghttp2.so.14\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcrypt.so.2.0.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcrypt.so.2.0.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libffi.so.8" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libffi.so.8\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcurl.so.4" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libcurl.so.4\nOutdegree: 8\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libbz2.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libbz2.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgssrpc.so.4.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgssrpc.so.4.2\nOutdegree: 8\nBetweeness: 0.000049688111545988256\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnss_compat.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libnss_compat.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkrb5support.so.0.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libkrb5support.so.0.1\nOutdegree: 5\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgdbm.so.6" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgdbm.so.6\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpython3.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libpython3.so\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgcrypt.so.20.4.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgcrypt.so.20.4.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libexpat.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libexpat.so.1\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpmbuild.so.9.1.3" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/librpmbuild.so.9.1.3\nOutdegree: 20\nBetweeness: 0.00008790973581213307\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgssapi_krb5.so.2.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgssapi_krb5.so.2.2\nOutdegree: 8\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgmp.so.10" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgmp.so.10\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libp11-kit.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libp11-kit.so.0\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librepo.so.0" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/librepo.so.0\nOutdegree: 8\nBetweeness: 0.00010319838551859099\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libverto.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libverto.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libtinfo.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libtinfo.so.6.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libelf.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libelf.so.1\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libffi.so.8.1.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libffi.so.8.1.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "liblua-5.3.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/liblua-5.3.so\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpmio.so.9" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/librpmio.so.9\nOutdegree: 11\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librt.so.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/librt.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgpgme.so.11.24.1" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libgpgme.so.11.24.1\nOutdegree: 4\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libelf-0.188.so" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libelf-0.188.so\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnss_files.so.2" [style=filled, color="green", tooltip="Absolute Path: /usr/lib64/libnss_files.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpcre2-8.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpcre2-8.so.0\nOutdegree: 1\nBetweeness: 0.00035928326810176123\nKatz: 0.039915386854161516\nEigen: 0\nCloseness: 0.07887428944180412"];
+  "libkrad.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libkrad.so.0\nOutdegree: 10\nBetweeness: 0.000049688111545988256\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libncurses.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libncurses.so.6.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpm.so.9" [style=filled, color="green", tooltip="Absolute Path: /lib64/librpm.so.9\nOutdegree: 15\nBetweeness: 0.0007390242055726399\nKatz: 0.04960456755841534\nEigen: 0\nCloseness: 0.050880626223091974"];
+  "librpmsign.so.9" [style=filled, color="green", tooltip="Absolute Path: /lib64/librpmsign.so.9\nOutdegree: 15\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libglib-2.0.so.0.7400.7" [style=filled, color="green", tooltip="Absolute Path: /lib64/libglib-2.0.so.0.7400.7\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmagic.so.1.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmagic.so.1.0.0\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libglib-2.0.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libglib-2.0.so.0\nOutdegree: 2\nBetweeness: 0.00031723948140900194\nKatz: 0.07246103680908847\nEigen: 0\nCloseness: 0.07436399217221135"];
+  "libgobject-2.0.so.0.7400.7" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgobject-2.0.so.0.7400.7\nOutdegree: 3\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmemusage.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmemusage.so\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnssckbi.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/libnssckbi.so\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libthread_db.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libthread_db.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnpth.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libnpth.so.0\nOutdegree: 1\nBetweeness: 0.000022932974559686887\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "libyaml-0.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libyaml-0.so.2\nOutdegree: 1\nBetweeness: 0.00003822162426614481\nKatz: 0.022472787512652255\nEigen: 0\nCloseness: 0.012524461839530333"];
+  "libgmp.so.10.4.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgmp.so.10.4.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libaudit.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libaudit.so.1\nOutdegree: 2\nBetweeness: 0.00033252813111545986\nKatz: 0.04979914901126879\nEigen: 0\nCloseness: 0.054123567235113225"];
+  "libnghttp2.so.14.26.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libnghttp2.so.14.26.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libblkid.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libblkid.so.1\nOutdegree: 1\nBetweeness: 0.00008408757338551859\nKatz: 0.019896638700226264\nEigen: 0\nCloseness: 0.01630789302022179"];
+  "libcap.so.2.48" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcap.so.2.48\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libutil.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libutil.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libassuan.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libassuan.so.0\nOutdegree: 2\nBetweeness: 0.00006497676125244618\nKatz: 0.02551483557838933\nEigen: 0\nCloseness: 0.01917808219178082"];
+  "libgomp.so.1.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgomp.so.1.0.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libacl.so.1.1.2301" [style=filled, color="green", tooltip="Absolute Path: /lib64/libacl.so.1.1.2301\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnss_dns.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libnss_dns.so.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libstdc++.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libstdc++.so.6\nOutdegree: 4\nBetweeness: 0.000025936102180598266\nKatz: 0.016443503058038232\nEigen: 0\nCloseness: 0.003913894324853229"];
+  "liblua-5.4.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/liblua-5.4.so\nOutdegree: 2\nBetweeness: 0.0001643529843444227\nKatz: 0.044317981325256044\nEigen: 0\nCloseness: 0.04744114333155429"];
+  "librpm.so.9.1.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/librpm.so.9.1.3\nOutdegree: 15\nBetweeness: 0.00006497676125244618\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcrypto.so.3.0.8" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcrypto.so.3.0.8\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgio-2.0.so.0.7400.7" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgio-2.0.so.0.7400.7\nOutdegree: 7\nBetweeness: 0.00004204378669275929\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsigsegv.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libsigsegv.so.2\nOutdegree: 1\nBetweeness: 0.000022932974559686887\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "liblz4.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/liblz4.so.1\nOutdegree: 1\nBetweeness: 0.00003057729941291585\nKatz: 0.019458145285345244\nEigen: 0\nCloseness: 0.008806262230919765"];
+  "libkeyutils.so.1.10" [style=filled, color="green", tooltip="Absolute Path: /lib64/libkeyutils.so.1.10\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libjson-c.so.5.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libjson-c.so.5.0.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmenu.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmenu.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libuuid.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libuuid.so.1\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libz.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libz.so.1\nOutdegree: 1\nBetweeness: 0.0005198140900195694\nKatz: 0.11782678992745121\nEigen: 0\nCloseness: 0.16268029281727914"];
+  "libmount.so.1.1.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmount.so.1.1.0\nOutdegree: 3\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdnf.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libdnf.so.2\nOutdegree: 17\nBetweeness: 0.00020639677103718198\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgio-2.0.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgio-2.0.so.0\nOutdegree: 7\nBetweeness: 0.00031876834637964776\nKatz: 0.030146422273070097\nEigen: 0\nCloseness: 0.023483365949119372"];
+  "libmodulemd.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmodulemd.so.2\nOutdegree: 7\nBetweeness: 0.00019875244618395302\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "libdrop_ambient.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libdrop_ambient.so.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpopt.so.0.0.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpopt.so.0.0.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmenuw.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmenuw.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libSegFault.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/libSegFault.so\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libasm-0.188.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/libasm-0.188.so\nOutdegree: 4\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgcc_s.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgcc_s.so.1\nOutdegree: 1\nBetweeness: 0.00009173189823874755\nKatz: 0.04494557502530451\nEigen: 0\nCloseness: 0.043052837573385516"];
+  "libpcre2-8.so.0.11.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpcre2-8.so.0.11.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libncurses.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libncurses.so.6\nOutdegree: 2\nBetweeness: 0.00010319838551859099\nKatz: 0.030146422273070097\nEigen: 0\nCloseness: 0.023483365949119372"];
+  "libpanelw.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpanelw.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmenuw.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmenuw.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkrb5support.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libkrb5support.so.0\nOutdegree: 5\nBetweeness: 0.00035928326810176123\nKatz: 0.04783856273582047\nEigen: 0\nCloseness: 0.040396980710092255"];
+  "libcom_err.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcom_err.so.2\nOutdegree: 2\nBetweeness: 0.00014651622635355509\nKatz: 0.04523361038720448\nEigen: 0\nCloseness: 0.03669275929549902"];
+  "libuuid.so.1.3.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libuuid.so.1.3.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgcc_s-11-20230605.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgcc_s-11-20230605.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libunistring.so.2.1.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libunistring.so.2.1.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libassuan.so.0.8.5" [style=filled, color="green", tooltip="Absolute Path: /lib64/libassuan.so.0.8.5\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libidn2.so.0.3.7" [style=filled, color="green", tooltip="Absolute Path: /lib64/libidn2.so.0.3.7\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnpth.so.0.1.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libnpth.so.0.1.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdrop_ambient.so.0.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libdrop_ambient.so.0.0.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsolvext.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libsolvext.so.1\nOutdegree: 9\nBetweeness: 0.00009708292563600781\nKatz: 0.016443503058038232\nEigen: 0\nCloseness: 0.003913894324853229"];
+  "libncursesw.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libncursesw.so.6.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libattr.so.1.1.2501" [style=filled, color="green", tooltip="Absolute Path: /lib64/libattr.so.1.1.2501\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libjson-c.so.5" [style=filled, color="green", tooltip="Absolute Path: /lib64/libjson-c.so.5\nOutdegree: 2\nBetweeness: 0.000016380696114062063\nKatz: 0.016443503058038232\nEigen: 0\nCloseness: 0.003913894324853229"];
+  "libyaml-0.so.2.0.9" [style=filled, color="green", tooltip="Absolute Path: /lib64/libyaml-0.so.2.0.9\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libssl.so.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/libssl.so.3\nOutdegree: 2\nBetweeness: 0.00005351027397260274\nKatz: 0.019759609508075943\nEigen: 0\nCloseness: 0.010871928680147858"];
+  "libcom_err.so.2.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcom_err.so.2.1\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgpg-error.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgpg-error.so.0\nOutdegree: 1\nBetweeness: 0.00009937622309197651\nKatz: 0.04368764704136458\nEigen: 0\nCloseness: 0.04025719876991892"];
+  "libkdb5.so.10.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libkdb5.so.10.0\nOutdegree: 9\nBetweeness: 0.00005351027397260274\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libselinux.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libselinux.so.1\nOutdegree: 3\nBetweeness: 0.00045465532103252255\nKatz: 0.052634450172473306\nEigen: 0\nCloseness: 0.06523157208088716"];
+  "libncursesw.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libncursesw.so.6\nOutdegree: 2\nBetweeness: 0.00010319838551859099\nKatz: 0.030146422273070097\nEigen: 0\nCloseness: 0.023483365949119372"];
+  "libc_malloc_debug.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libc_malloc_debug.so.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmount.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmount.so.1\nOutdegree: 3\nBetweeness: 0.0001414200097847358\nKatz: 0.02082843720684843\nEigen: 0\nCloseness: 0.01789208834218619"];
+  "libaudit.so.1.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libaudit.so.1.0.0\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdl.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libdl.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmvec.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmvec.so.1\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "liblzma.so.5" [style=filled, color="green", tooltip="Absolute Path: /lib64/liblzma.so.5\nOutdegree: 1\nBetweeness: 0.00025226272015655576\nKatz: 0.06714704473749912\nEigen: 0\nCloseness: 0.08015655577299413"];
+  "libmpfr.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmpfr.so.6\nOutdegree: 3\nBetweeness: 0.00003185135355512067\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "libgssrpc.so.4" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgssrpc.so.4\nOutdegree: 8\nBetweeness: 0.0000802654109589041\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "libk5crypto.so.3.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libk5crypto.so.3.1\nOutdegree: 6\nBetweeness: 0.00003439946183953033\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsigsegv.so.2.0.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libsigsegv.so.2.0.6\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libhistory.so.8" [style=filled, color="green", tooltip="Absolute Path: /lib64/libhistory.so.8\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libxml2.so.2.10.4" [style=filled, color="green", tooltip="Absolute Path: /lib64/libxml2.so.2.10.4\nOutdegree: 4\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libtic.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libtic.so.6\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libauparse.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libauparse.so.0\nOutdegree: 3\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgdbm_compat.so.4.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgdbm_compat.so.4.0.0\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsmartcols.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libsmartcols.so.1\nOutdegree: 1\nBetweeness: 0.000015288649706457925\nKatz: 0.016443503058038232\nEigen: 0\nCloseness: 0.003913894324853229"];
+  "libkrad.so.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libkrad.so.0.0\nOutdegree: 10\nBetweeness: 0.000049688111545988256\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgssapi_krb5.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgssapi_krb5.so.2\nOutdegree: 8\nBetweeness: 0.000405149217221135\nKatz: 0.025788893962689966\nEigen: 0\nCloseness: 0.021135029354207434"];
+  "libssl.so.3.0.8" [style=filled, color="green", tooltip="Absolute Path: /lib64/libssl.so.3.0.8\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkrb5.so.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/libkrb5.so.3\nOutdegree: 7\nBetweeness: 0.00015670865949119373\nKatz: 0.037384304202449925\nEigen: 0\nCloseness: 0.030065824586372535"];
+  "libhistory.so.8.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libhistory.so.8.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpmsign.so.9.1.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/librpmsign.so.9.1.3\nOutdegree: 15\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgcrypt.so.20" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgcrypt.so.20\nOutdegree: 2\nBetweeness: 0.00002675513698630137\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "libformw.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libformw.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libblkid.so.1.1.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libblkid.so.1.1.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpcre2-posix.so.3.0.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpcre2-posix.so.3.0.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdw-0.188.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/libdw-0.188.so\nOutdegree: 7\nBetweeness: 0.00002675513698630137\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpsx.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpsx.so.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpthread.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpthread.so.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsolv.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libsolv.so.1\nOutdegree: 2\nBetweeness: 0.000035036488910632744\nKatz: 0.019458145285345244\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "libpanel.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpanel.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmenu.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmenu.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libdw.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libdw.so.1\nOutdegree: 7\nBetweeness: 0.00011339081865622962\nKatz: 0.02466525458705735\nEigen: 0\nCloseness: 0.015655577299412915"];
+  "ld-linux-x86-64.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/ld-linux-x86-64.so.2\nOutdegree: 0\nBetweeness: 0.0019340141878669275\nKatz: 0.23681039673853846\nEigen: 0\nCloseness: 0.5330307698713412"];
+  "libreadline.so.8" [style=filled, color="green", tooltip="Absolute Path: /lib64/libreadline.so.8\nOutdegree: 2\nBetweeness: 0.00007262108610567514\nKatz: 0.02466525458705735\nEigen: 0\nCloseness: 0.015655577299412915"];
+  "libsepol.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libsepol.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libverto.so.1.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libverto.so.1.0.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libtasn1.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libtasn1.so.6\nOutdegree: 1\nBetweeness: 0.000022932974559686887\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "librpmio.so.9.1.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/librpmio.so.9.1.3\nOutdegree: 11\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libzstd.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libzstd.so.1\nOutdegree: 1\nBetweeness: 0.00020639677103718198\nKatz: 0.05966525084609174\nEigen: 0\nCloseness: 0.06614481409001957"];
+  "libresolv.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libresolv.so.2\nOutdegree: 1\nBetweeness: 0.0001605308219178082\nKatz: 0.06550316307153246\nEigen: 0\nCloseness: 0.0539847493083204"];
+  "libkrb5.so.3.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/libkrb5.so.3.3\nOutdegree: 7\nBetweeness: 0.00004204378669275929\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libbz2.so.1.0.8" [style=filled, color="green", tooltip="Absolute Path: /lib64/libbz2.so.1.0.8\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libunistring.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libunistring.so.2\nOutdegree: 1\nBetweeness: 0.00007644324853228962\nKatz: 0.02648527631719788\nEigen: 0\nCloseness: 0.01761252446183953"];
+  "libreadline.so.8.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libreadline.so.8.1\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libm.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libm.so.6\nOutdegree: 2\nBetweeness: 0.0004038751630789303\nKatz: 0.0971512307091172\nEigen: 0\nCloseness: 0.11829307474369835"];
+  "libstdc++.so.6.0.29" [style=filled, color="green", tooltip="Absolute Path: /lib64/libstdc++.so.6.0.29\nOutdegree: 4\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libformw.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libformw.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libxml2.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libxml2.so.2\nOutdegree: 4\nBetweeness: 0.00018473785061969995\nKatz: 0.03370918126897838\nEigen: 0\nCloseness: 0.028820494573919234"];
+  "libanl.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libanl.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libattr.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libattr.so.1\nOutdegree: 1\nBetweeness: 0.00016817514677103717\nKatz: 0.02505167690892125\nEigen: 0\nCloseness: 0.03595890410958904"];
+  "libpsl.so.5.3.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpsl.so.5.3.3\nOutdegree: 3\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsqlite3.so.0.8.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libsqlite3.so.0.8.6\nOutdegree: 3\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpopt.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpopt.so.0\nOutdegree: 1\nBetweeness: 0.0001605308219178082\nKatz: 0.06076148438329429\nEigen: 0\nCloseness: 0.057983619627455234"];
+  "libpcre2-posix.so.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpcre2-posix.so.3\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libauparse.so.0.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libauparse.so.0.0.0\nOutdegree: 3\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpanelw.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpanelw.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgobject-2.0.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgobject-2.0.so.0\nOutdegree: 3\nBetweeness: 0.0002025746086105675\nKatz: 0.04604180856250706\nEigen: 0\nCloseness: 0.043353906367605"];
+  "libarchive.so.13.7.4" [style=filled, color="green", tooltip="Absolute Path: /lib64/libarchive.so.13.7.4\nOutdegree: 9\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcrypt.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcrypt.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libexpat.so.1.9.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/libexpat.so.1.9.3\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpsx.so.2.48" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpsx.so.2.48\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkeyutils.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libkeyutils.so.1\nOutdegree: 1\nBetweeness: 0.00015288649706457925\nKatz: 0.06276257922852609\nEigen: 0\nCloseness: 0.050461280402571994"];
+  "libgomp.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgomp.so.1\nOutdegree: 1\nBetweeness: 0.000022932974559686887\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "libz.so.1.2.11" [style=filled, color="green", tooltip="Absolute Path: /lib64/libz.so.1.2.11\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpsl.so.5" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpsl.so.5\nOutdegree: 3\nBetweeness: 0.00007262108610567514\nKatz: 0.019759609508075943\nEigen: 0\nCloseness: 0.010871928680147858"];
+  "libpcprofile.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpcprofile.so\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libasm.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libasm.so.1\nOutdegree: 4\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkdb5.so.10" [style=filled, color="green", tooltip="Absolute Path: /lib64/libkdb5.so.10\nOutdegree: 9\nBetweeness: 0.00005351027397260274\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsqlite3.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libsqlite3.so.0\nOutdegree: 3\nBetweeness: 0.00013339346868884543\nKatz: 0.03647717095041481\nEigen: 0\nCloseness: 0.038288096656172894"];
+  "libarchive.so.13" [style=filled, color="green", tooltip="Absolute Path: /lib64/libarchive.so.13\nOutdegree: 9\nBetweeness: 0.00008918378995433791\nKatz: 0.016443503058038232\nEigen: 0\nCloseness: 0.003913894324853229"];
+  "libgdbm_compat.so.4" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgdbm_compat.so.4\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libzstd.so.1.5.5" [style=filled, color="green", tooltip="Absolute Path: /lib64/libzstd.so.1.5.5\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpython3.9.so.1.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpython3.9.so.1.0\nOutdegree: 2\nBetweeness: 0.00005733243639921722\nKatz: 0.02192467074405098\nEigen: 0\nCloseness: 0.011741682974559686"];
+  "liblz4.so.1.9.4" [style=filled, color="green", tooltip="Absolute Path: /lib64/liblz4.so.1.9.4\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgthread-2.0.so.0.7400.7" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgthread-2.0.so.0.7400.7\nOutdegree: 1\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libidn2.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libidn2.so.0\nOutdegree: 2\nBetweeness: 0.00008408757338551859\nKatz: 0.025846446223393098\nEigen: 0\nCloseness: 0.0174346201743462"];
+  "libcurl.so.4.8.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcurl.so.4.8.0\nOutdegree: 8\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "liblzma.so.5.2.5" [style=filled, color="green", tooltip="Absolute Path: /lib64/liblzma.so.5.2.5\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libform.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libform.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libc.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libc.so.6\nOutdegree: 1\nBetweeness: 0.003322551195135588\nKatz: 0.857516362811735\nEigen: 0\nCloseness: 0.9785352173444073"];
+  "libacl.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libacl.so.1\nOutdegree: 2\nBetweeness: 0.00029430650684931505\nKatz: 0.04497298086373457\nEigen: 0\nCloseness: 0.050461280402571994"];
+  "libtic.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libtic.so.6.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libsmartcols.so.1.1.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libsmartcols.so.1.1.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcap.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcap.so.2\nOutdegree: 1\nBetweeness: 0.0001605308219178082\nKatz: 0.04743950632244031\nEigen: 0\nCloseness: 0.0539847493083204"];
+  "libmpfr.so.6.1.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmpfr.so.6.1.0\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libtasn1.so.6.6.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/libtasn1.so.6.6.3\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "p11-kit-proxy.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/p11-kit-proxy.so\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcap-ng.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcap-ng.so.0\nOutdegree: 2\nBetweeness: 0.00020639677103718198\nKatz: 0.028274877566681043\nEigen: 0\nCloseness: 0.03955093212483263"];
+  "libBrokenLocale.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libBrokenLocale.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgpg-error.so.0.32.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgpg-error.so.0.32.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgmodule-2.0.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgmodule-2.0.so.0\nOutdegree: 2\nBetweeness: 0.00008408757338551859\nKatz: 0.023569021049854803\nEigen: 0\nCloseness: 0.021135029354207434"];
+  "librpmbuild.so.9" [style=filled, color="green", tooltip="Absolute Path: /lib64/librpmbuild.so.9\nOutdegree: 20\nBetweeness: 0.00008790973581213307\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcrypto.so.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcrypto.so.3\nOutdegree: 2\nBetweeness: 0.00047267408675799084\nKatz: 0.11760714309476962\nEigen: 0\nCloseness: 0.1269612387132214"];
+  "libcomps.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcomps.so.0\nOutdegree: 4\nBetweeness: 0.00002675513698630137\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libcap-ng.so.0.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcap-ng.so.0.0.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libk5crypto.so.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/libk5crypto.so.3\nOutdegree: 6\nBetweeness: 0.00018856001304631443\nKatz: 0.04523361038720448\nEigen: 0\nCloseness: 0.03669275929549902"];
+  "libmodulemd.so.2.13.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmodulemd.so.2.13.0\nOutdegree: 7\nBetweeness: 0.00007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libpanel.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpanel.so.6\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libp11-kit.so.0.3.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libp11-kit.so.0.3.0\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libform.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libform.so.6.2\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libtinfo.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libtinfo.so.6\nOutdegree: 1\nBetweeness: 0.00020639677103718198\nKatz: 0.04549369179390578\nEigen: 0\nCloseness: 0.06299506103811388"];
+  "libgdbm.so.6.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgdbm.so.6.0.0\nOutdegree: 2\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libmagic.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libmagic.so.1\nOutdegree: 2\nBetweeness: 0.00006879892367906066\nKatz: 0.025213371355658626\nEigen: 0\nCloseness: 0.01761252446183953"];
+  "libgmodule-2.0.so.0.7400.7" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgmodule-2.0.so.0.7400.7\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgpgme.so.11" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgpgme.so.11\nOutdegree: 4\nBetweeness: 0.00008263151150871307\nKatz: 0.022198729128351618\nEigen: 0\nCloseness: 0.011741682974559686"];
+  "libgthread-2.0.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgthread-2.0.so.0\nOutdegree: 1\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnghttp2.so.14" [style=filled, color="green", tooltip="Absolute Path: /lib64/libnghttp2.so.14\nOutdegree: 1\nBetweeness: 0.000045865949119373774\nKatz: 0.019759609508075943\nEigen: 0\nCloseness: 0.010871928680147858"];
+  "libcrypt.so.2.0.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcrypt.so.2.0.0\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libffi.so.8" [style=filled, color="green", tooltip="Absolute Path: /lib64/libffi.so.8\nOutdegree: 1\nBetweeness: 0.00015288649706457925\nKatz: 0.031187844133412513\nEigen: 0\nCloseness: 0.04155634856682399"];
+  "libcurl.so.4" [style=filled, color="green", tooltip="Absolute Path: /lib64/libcurl.so.4\nOutdegree: 8\nBetweeness: 0.0004000530006523157\nKatz: 0.019458145285345244\nEigen: 0\nCloseness: 0.008806262230919765"];
+  "libbz2.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libbz2.so.1\nOutdegree: 1\nBetweeness: 0.00020639677103718198\nKatz: 0.05966525084609174\nEigen: 0\nCloseness: 0.06614481409001957"];
+  "libgssrpc.so.4.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgssrpc.so.4.2\nOutdegree: 8\nBetweeness: 0.000049688111545988256\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnss_compat.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libnss_compat.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libkrb5support.so.0.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libkrb5support.so.0.1\nOutdegree: 5\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgdbm.so.6" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgdbm.so.6\nOutdegree: 2\nBetweeness: 0.00003057729941291585\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "libpython3.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/libpython3.so\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgcrypt.so.20.4.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgcrypt.so.20.4.2\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libexpat.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libexpat.so.1\nOutdegree: 2\nBetweeness: 0.00003439946183953033\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "librpmbuild.so.9.1.3" [style=filled, color="green", tooltip="Absolute Path: /lib64/librpmbuild.so.9.1.3\nOutdegree: 20\nBetweeness: 0.00008790973581213307\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgssapi_krb5.so.2.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgssapi_krb5.so.2.2\nOutdegree: 8\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgmp.so.10" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgmp.so.10\nOutdegree: 1\nBetweeness: 0.00003822162426614481\nKatz: 0.025213371355658626\nEigen: 0\nCloseness: 0.015655577299412915"];
+  "libp11-kit.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/libp11-kit.so.0\nOutdegree: 3\nBetweeness: 0.000049688111545988256\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "librepo.so.0" [style=filled, color="green", tooltip="Absolute Path: /lib64/librepo.so.0\nOutdegree: 8\nBetweeness: 0.0002159521771037182\nKatz: 0.016443503058038232\nEigen: 0\nCloseness: 0.003913894324853229"];
+  "libverto.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libverto.so.1\nOutdegree: 1\nBetweeness: 0.000022932974559686887\nKatz: 0.019184086901044606\nEigen: 0\nCloseness: 0.007827788649706457"];
+  "libtinfo.so.6.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libtinfo.so.6.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libelf.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libelf.so.1\nOutdegree: 3\nBetweeness: 0.00006752486953685583\nKatz: 0.03124265581027265\nEigen: 0\nCloseness: 0.023483365949119372"];
+  "libffi.so.8.1.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libffi.so.8.1.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "liblua-5.3.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/liblua-5.3.so\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "librpmio.so.9" [style=filled, color="green", tooltip="Absolute Path: /lib64/librpmio.so.9\nOutdegree: 11\nBetweeness: 0.0007237355558661818\nKatz: 0.06470518453338045\nEigen: 0\nCloseness: 0.06674219796065506"];
+  "librt.so.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/librt.so.1\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libgpgme.so.11.24.1" [style=filled, color="green", tooltip="Absolute Path: /lib64/libgpgme.so.11.24.1\nOutdegree: 4\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libelf-0.188.so" [style=filled, color="green", tooltip="Absolute Path: /lib64/libelf-0.188.so\nOutdegree: 3\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "libnss_files.so.2" [style=filled, color="green", tooltip="Absolute Path: /lib64/libnss_files.so.2\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gpg2" [style=filled, color="blue", tooltip="Absolute Path: /bin/gpg2\nOutdegree: 6\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "getconf" [style=filled, color="blue", tooltip="Absolute Path: /bin/getconf\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "iconv" [style=filled, color="blue", tooltip="Absolute Path: /bin/iconv\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "python3" [style=filled, color="blue", tooltip="Absolute Path: /bin/python3\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "python3.9" [style=filled, color="blue", tooltip="Absolute Path: /bin/python3.9\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gpg-error" [style=filled, color="blue", tooltip="Absolute Path: /bin/gpg-error\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "p11-kit" [style=filled, color="blue", tooltip="Absolute Path: /bin/p11-kit\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "curl" [style=filled, color="blue", tooltip="Absolute Path: /bin/curl\nOutdegree: 2\nBetweeness: 0.00007262108610567514\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "xmlwf" [style=filled, color="blue", tooltip="Absolute Path: /bin/xmlwf\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gapplication" [style=filled, color="blue", tooltip="Absolute Path: /bin/gapplication\nOutdegree: 4\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gio" [style=filled, color="blue", tooltip="Absolute Path: /bin/gio\nOutdegree: 4\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "localedef" [style=filled, color="blue", tooltip="Absolute Path: /bin/localedef\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "trust" [style=filled, color="blue", tooltip="Absolute Path: /bin/trust\nOutdegree: 3\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpmkeys" [style=filled, color="blue", tooltip="Absolute Path: /bin/rpmkeys\nOutdegree: 4\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpm2cpio" [style=filled, color="blue", tooltip="Absolute Path: /bin/rpm2cpio\nOutdegree: 3\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "zdump" [style=filled, color="blue", tooltip="Absolute Path: /bin/zdump\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "awk" [style=filled, color="blue", tooltip="Absolute Path: /bin/awk\nOutdegree: 6\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "xmllint" [style=filled, color="blue", tooltip="Absolute Path: /bin/xmllint\nOutdegree: 2\nBetweeness: 0.000022932974559686887\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gencat" [style=filled, color="blue", tooltip="Absolute Path: /bin/gencat\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "glib-compile-schemas" [style=filled, color="blue", tooltip="Absolute Path: /bin/glib-compile-schemas\nOutdegree: 3\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "locale" [style=filled, color="blue", tooltip="Absolute Path: /bin/locale\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "sprof" [style=filled, color="blue", tooltip="Absolute Path: /bin/sprof\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "modulemd-validator" [style=filled, color="blue", tooltip="Absolute Path: /bin/modulemd-validator\nOutdegree: 6\nBetweeness: 0.0000802654109589041\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "getent" [style=filled, color="blue", tooltip="Absolute Path: /bin/getent\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gpgme-json" [style=filled, color="blue", tooltip="Absolute Path: /bin/gpgme-json\nOutdegree: 4\nBetweeness: 0.000022932974559686887\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gdbus" [style=filled, color="blue", tooltip="Absolute Path: /bin/gdbus\nOutdegree: 4\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "pldd" [style=filled, color="blue", tooltip="Absolute Path: /bin/pldd\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpmquery" [style=filled, color="blue", tooltip="Absolute Path: /bin/rpmquery\nOutdegree: 4\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gawk" [style=filled, color="blue", tooltip="Absolute Path: /bin/gawk\nOutdegree: 6\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "ld.so" [style=filled, color="green", tooltip="Absolute Path: /bin/ld.so\nOutdegree: 0\nBetweeness: 0\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpmdb" [style=filled, color="blue", tooltip="Absolute Path: /bin/rpmdb\nOutdegree: 4\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpm" [style=filled, color="blue", tooltip="Absolute Path: /bin/rpm\nOutdegree: 4\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpmverify" [style=filled, color="blue", tooltip="Absolute Path: /bin/rpmverify\nOutdegree: 4\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "sed" [style=filled, color="blue", tooltip="Absolute Path: /bin/sed\nOutdegree: 3\nBetweeness: 0.000022932974559686887\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "coreutils" [style=filled, color="blue", tooltip="Absolute Path: /bin/coreutils\nOutdegree: 5\nBetweeness: 0.00002675513698630137\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpm2archive" [style=filled, color="blue", tooltip="Absolute Path: /bin/rpm2archive\nOutdegree: 5\nBetweeness: 0.0000802654109589041\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gio-querymodules-64" [style=filled, color="blue", tooltip="Absolute Path: /bin/gio-querymodules-64\nOutdegree: 4\nBetweeness: 0.00002675513698630137\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "xmlcatalog" [style=filled, color="blue", tooltip="Absolute Path: /bin/xmlcatalog\nOutdegree: 2\nBetweeness: 0.000022932974559686887\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gpg" [style=filled, color="blue", tooltip="Absolute Path: /bin/gpg\nOutdegree: 6\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "grep" [style=filled, color="blue", tooltip="Absolute Path: /bin/grep\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "bash" [style=filled, color="blue", tooltip="Absolute Path: /bin/bash\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "sh" [style=filled, color="blue", tooltip="Absolute Path: /bin/sh\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gsettings" [style=filled, color="blue", tooltip="Absolute Path: /bin/gsettings\nOutdegree: 4\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "setcap" [style=filled, color="blue", tooltip="Absolute Path: /sbin/setcap\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "capsh" [style=filled, color="blue", tooltip="Absolute Path: /sbin/capsh\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "getcap" [style=filled, color="blue", tooltip="Absolute Path: /sbin/getcap\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "alternatives" [style=filled, color="blue", tooltip="Absolute Path: /sbin/alternatives\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "getpcaps" [style=filled, color="blue", tooltip="Absolute Path: /sbin/getpcaps\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "zic" [style=filled, color="blue", tooltip="Absolute Path: /sbin/zic\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "ldconfig" [style=filled, color="blue", tooltip="Absolute Path: /sbin/ldconfig\nOutdegree: 0\nBetweeness: 0\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "update-alternatives" [style=filled, color="blue", tooltip="Absolute Path: /sbin/update-alternatives\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "iconvconfig" [style=filled, color="blue", tooltip="Absolute Path: /sbin/iconvconfig\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gpg2" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gpg2\nOutdegree: 6\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "getconf" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/getconf\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "iconv" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/iconv\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "python3" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/python3\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "python3.9" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/python3.9\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gpg-error" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gpg-error\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "p11-kit" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/p11-kit\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "curl" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/curl\nOutdegree: 2\nBetweeness: 0.00007262108610567514\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "xmlwf" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/xmlwf\nOutdegree: 2\nBetweeness: 0.000015288649706457925\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gapplication" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gapplication\nOutdegree: 4\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gio" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gio\nOutdegree: 4\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "localedef" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/localedef\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "trust" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/trust\nOutdegree: 3\nBetweeness: 0.000019110812133072406\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpmkeys" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/rpmkeys\nOutdegree: 4\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpm2cpio" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/rpm2cpio\nOutdegree: 3\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "zdump" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/zdump\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "awk" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/awk\nOutdegree: 6\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "xmllint" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/xmllint\nOutdegree: 2\nBetweeness: 0.000022932974559686887\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gencat" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gencat\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "glib-compile-schemas" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/glib-compile-schemas\nOutdegree: 3\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "locale" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/locale\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "sprof" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/sprof\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "modulemd-validator" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/modulemd-validator\nOutdegree: 6\nBetweeness: 0.0000802654109589041\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "getent" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/getent\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gpgme-json" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gpgme-json\nOutdegree: 4\nBetweeness: 0.000022932974559686887\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gdbus" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gdbus\nOutdegree: 4\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "pldd" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/pldd\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpmquery" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/rpmquery\nOutdegree: 4\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gawk" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gawk\nOutdegree: 6\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "ld.so" [style=filled, color="green", tooltip="Absolute Path: /usr/bin/ld.so\nOutdegree: 0\nBetweeness: 0\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpmdb" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/rpmdb\nOutdegree: 4\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpm" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/rpm\nOutdegree: 4\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpmverify" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/rpmverify\nOutdegree: 4\nBetweeness: 0.00006879892367906066\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "sed" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/sed\nOutdegree: 3\nBetweeness: 0.000022932974559686887\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "coreutils" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/coreutils\nOutdegree: 5\nBetweeness: 0.00002675513698630137\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "rpm2archive" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/rpm2archive\nOutdegree: 5\nBetweeness: 0.0000802654109589041\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gio-querymodules-64" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gio-querymodules-64\nOutdegree: 4\nBetweeness: 0.00002675513698630137\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "xmlcatalog" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/xmlcatalog\nOutdegree: 2\nBetweeness: 0.000022932974559686887\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gpg" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gpg\nOutdegree: 6\nBetweeness: 0.00003057729941291585\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "grep" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/grep\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "bash" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/bash\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "sh" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/sh\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "gsettings" [style=filled, color="blue", tooltip="Absolute Path: /usr/bin/gsettings\nOutdegree: 4\nBetweeness: 0.000045865949119373774\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "setcap" [style=filled, color="blue", tooltip="Absolute Path: /usr/sbin/setcap\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "capsh" [style=filled, color="blue", tooltip="Absolute Path: /usr/sbin/capsh\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "getcap" [style=filled, color="blue", tooltip="Absolute Path: /usr/sbin/getcap\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "alternatives" [style=filled, color="blue", tooltip="Absolute Path: /usr/sbin/alternatives\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "getpcaps" [style=filled, color="blue", tooltip="Absolute Path: /usr/sbin/getpcaps\nOutdegree: 2\nBetweeness: 0.000011466487279843444\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "zic" [style=filled, color="blue", tooltip="Absolute Path: /usr/sbin/zic\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "ldconfig" [style=filled, color="blue", tooltip="Absolute Path: /usr/sbin/ldconfig\nOutdegree: 0\nBetweeness: 0\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "update-alternatives" [style=filled, color="blue", tooltip="Absolute Path: /usr/sbin/update-alternatives\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+  "iconvconfig" [style=filled, color="blue", tooltip="Absolute Path: /usr/sbin/iconvconfig\nOutdegree: 1\nBetweeness: 0.000007644324853228962\nKatz: 0.013702919215031861\nEigen: 0\nCloseness: 0"];
+
+
+  "libpcre2-8.so.0" -> "libc.so.6"
+  "libkrad.so.0" -> "libkrb5.so.3"
+  "libkrad.so.0" -> "libk5crypto.so.3"
+  "libkrad.so.0" -> "libcom_err.so.2"
+  "libkrad.so.0" -> "libkrb5support.so.0"
+  "libkrad.so.0" -> "libkeyutils.so.1"
+  "libkrad.so.0" -> "libcrypto.so.3"
+  "libkrad.so.0" -> "libresolv.so.2"
+  "libkrad.so.0" -> "libselinux.so.1"
+  "libkrad.so.0" -> "libverto.so.1"
+  "libkrad.so.0" -> "libc.so.6"
+  "libncurses.so.6.2" -> "libtinfo.so.6"
+  "libncurses.so.6.2" -> "libc.so.6"
+  "librpm.so.9" -> "librpmio.so.9"
+  "librpm.so.9" -> "libbz2.so.1"
+  "librpm.so.9" -> "libz.so.1"
+  "librpm.so.9" -> "liblzma.so.5"
+  "librpm.so.9" -> "libzstd.so.1"
+  "librpm.so.9" -> "liblua-5.4.so"
+  "librpm.so.9" -> "libm.so.6"
+  "librpm.so.9" -> "libpopt.so.0"
+  "librpm.so.9" -> "libcap.so.2"
+  "librpm.so.9" -> "libacl.so.1"
+  "librpm.so.9" -> "libsqlite3.so.0"
+  "librpm.so.9" -> "libaudit.so.1"
+  "librpm.so.9" -> "libcrypto.so.3"
+  "librpm.so.9" -> "libc.so.6"
+  "librpm.so.9" -> "ld-linux-x86-64.so.2"
+  "librpmsign.so.9" -> "librpm.so.9"
+  "librpmsign.so.9" -> "libcap.so.2"
+  "librpmsign.so.9" -> "libacl.so.1"
+  "librpmsign.so.9" -> "libsqlite3.so.0"
+  "librpmsign.so.9" -> "librpmio.so.9"
+  "librpmsign.so.9" -> "libbz2.so.1"
+  "librpmsign.so.9" -> "libz.so.1"
+  "librpmsign.so.9" -> "liblzma.so.5"
+  "librpmsign.so.9" -> "libzstd.so.1"
+  "librpmsign.so.9" -> "liblua-5.4.so"
+  "librpmsign.so.9" -> "libm.so.6"
+  "librpmsign.so.9" -> "libpopt.so.0"
+  "librpmsign.so.9" -> "libaudit.so.1"
+  "librpmsign.so.9" -> "libcrypto.so.3"
+  "librpmsign.so.9" -> "libc.so.6"
+  "libglib-2.0.so.0.7400.7" -> "libpcre2-8.so.0"
+  "libglib-2.0.so.0.7400.7" -> "libc.so.6"
+  "libmagic.so.1.0.0" -> "libz.so.1"
+  "libmagic.so.1.0.0" -> "libc.so.6"
+  "libglib-2.0.so.0" -> "libpcre2-8.so.0"
+  "libglib-2.0.so.0" -> "libc.so.6"
+  "libgobject-2.0.so.0.7400.7" -> "libglib-2.0.so.0"
+  "libgobject-2.0.so.0.7400.7" -> "libffi.so.8"
+  "libgobject-2.0.so.0.7400.7" -> "libc.so.6"
+  "libmemusage.so" -> "libc.so.6"
+  "libmemusage.so" -> "ld-linux-x86-64.so.2"
+  "libnssckbi.so" -> "libtasn1.so.6"
+  "libnssckbi.so" -> "libc.so.6"
+  "libnssckbi.so" -> "ld-linux-x86-64.so.2"
+  "libthread_db.so.1" -> "libc.so.6"
+  "libnpth.so.0" -> "libc.so.6"
+  "libyaml-0.so.2" -> "libc.so.6"
+  "libgmp.so.10.4.1" -> "libc.so.6"
+  "libaudit.so.1" -> "libcap-ng.so.0"
+  "libaudit.so.1" -> "libc.so.6"
+  "libnghttp2.so.14.26.0" -> "libc.so.6"
+  "libblkid.so.1" -> "libc.so.6"
+  "libcap.so.2.48" -> "libc.so.6"
+  "libutil.so.1" -> "libc.so.6"
+  "libassuan.so.0" -> "libgpg-error.so.0"
+  "libassuan.so.0" -> "libc.so.6"
+  "libgomp.so.1.0.0" -> "libc.so.6"
+  "libacl.so.1.1.2301" -> "libattr.so.1"
+  "libacl.so.1.1.2301" -> "libc.so.6"
+  "libnss_dns.so.2" -> "libresolv.so.2"
+  "libnss_dns.so.2" -> "libc.so.6"
+  "libstdc++.so.6" -> "libm.so.6"
+  "libstdc++.so.6" -> "libc.so.6"
+  "libstdc++.so.6" -> "ld-linux-x86-64.so.2"
+  "libstdc++.so.6" -> "libgcc_s.so.1"
+  "liblua-5.4.so" -> "libm.so.6"
+  "liblua-5.4.so" -> "libc.so.6"
+  "librpm.so.9.1.3" -> "librpmio.so.9"
+  "librpm.so.9.1.3" -> "libbz2.so.1"
+  "librpm.so.9.1.3" -> "libz.so.1"
+  "librpm.so.9.1.3" -> "liblzma.so.5"
+  "librpm.so.9.1.3" -> "libzstd.so.1"
+  "librpm.so.9.1.3" -> "liblua-5.4.so"
+  "librpm.so.9.1.3" -> "libm.so.6"
+  "librpm.so.9.1.3" -> "libpopt.so.0"
+  "librpm.so.9.1.3" -> "libcap.so.2"
+  "librpm.so.9.1.3" -> "libacl.so.1"
+  "librpm.so.9.1.3" -> "libsqlite3.so.0"
+  "librpm.so.9.1.3" -> "libaudit.so.1"
+  "librpm.so.9.1.3" -> "libcrypto.so.3"
+  "librpm.so.9.1.3" -> "libc.so.6"
+  "librpm.so.9.1.3" -> "ld-linux-x86-64.so.2"
+  "libcrypto.so.3.0.8" -> "libz.so.1"
+  "libcrypto.so.3.0.8" -> "libc.so.6"
+  "libgio-2.0.so.0.7400.7" -> "libglib-2.0.so.0"
+  "libgio-2.0.so.0.7400.7" -> "libgobject-2.0.so.0"
+  "libgio-2.0.so.0.7400.7" -> "libgmodule-2.0.so.0"
+  "libgio-2.0.so.0.7400.7" -> "libz.so.1"
+  "libgio-2.0.so.0.7400.7" -> "libmount.so.1"
+  "libgio-2.0.so.0.7400.7" -> "libselinux.so.1"
+  "libgio-2.0.so.0.7400.7" -> "libc.so.6"
+  "libsigsegv.so.2" -> "libc.so.6"
+  "liblz4.so.1" -> "libc.so.6"
+  "libkeyutils.so.1.10" -> "libc.so.6"
+  "libjson-c.so.5.0.0" -> "libc.so.6"
+  "libjson-c.so.5.0.0" -> "ld-linux-x86-64.so.2"
+  "libmenu.so.6.2" -> "libncurses.so.6"
+  "libmenu.so.6.2" -> "libc.so.6"
+  "libuuid.so.1" -> "libc.so.6"
+  "libuuid.so.1" -> "ld-linux-x86-64.so.2"
+  "libz.so.1" -> "libc.so.6"
+  "libmount.so.1.1.0" -> "libblkid.so.1"
+  "libmount.so.1.1.0" -> "libselinux.so.1"
+  "libmount.so.1.1.0" -> "libc.so.6"
+  "libdnf.so.2" -> "librepo.so.0"
+  "libdnf.so.2" -> "libglib-2.0.so.0"
+  "libdnf.so.2" -> "libgio-2.0.so.0"
+  "libdnf.so.2" -> "libgobject-2.0.so.0"
+  "libdnf.so.2" -> "libsolv.so.1"
+  "libdnf.so.2" -> "libsolvext.so.1"
+  "libdnf.so.2" -> "librpm.so.9"
+  "libdnf.so.2" -> "librpmio.so.9"
+  "libdnf.so.2" -> "libsqlite3.so.0"
+  "libdnf.so.2" -> "libjson-c.so.5"
+  "libdnf.so.2" -> "libmodulemd.so.2"
+  "libdnf.so.2" -> "libsmartcols.so.1"
+  "libdnf.so.2" -> "libgpgme.so.11"
+  "libdnf.so.2" -> "libselinux.so.1"
+  "libdnf.so.2" -> "libstdc++.so.6"
+  "libdnf.so.2" -> "libgcc_s.so.1"
+  "libdnf.so.2" -> "libc.so.6"
+  "libgio-2.0.so.0" -> "libglib-2.0.so.0"
+  "libgio-2.0.so.0" -> "libgobject-2.0.so.0"
+  "libgio-2.0.so.0" -> "libgmodule-2.0.so.0"
+  "libgio-2.0.so.0" -> "libz.so.1"
+  "libgio-2.0.so.0" -> "libmount.so.1"
+  "libgio-2.0.so.0" -> "libselinux.so.1"
+  "libgio-2.0.so.0" -> "libc.so.6"
+  "libmodulemd.so.2" -> "libgobject-2.0.so.0"
+  "libmodulemd.so.2" -> "libglib-2.0.so.0"
+  "libmodulemd.so.2" -> "libmagic.so.1"
+  "libmodulemd.so.2" -> "librpmio.so.9"
+  "libmodulemd.so.2" -> "libyaml-0.so.2"
+  "libmodulemd.so.2" -> "libgcc_s.so.1"
+  "libmodulemd.so.2" -> "libc.so.6"
+  "libdrop_ambient.so.0" -> "libc.so.6"
+  "libpopt.so.0.0.1" -> "libc.so.6"
+  "libmenuw.so.6.2" -> "libncursesw.so.6"
+  "libmenuw.so.6.2" -> "libc.so.6"
+  "libSegFault.so" -> "libc.so.6"
+  "libasm-0.188.so" -> "libelf.so.1"
+  "libasm-0.188.so" -> "libdw.so.1"
+  "libasm-0.188.so" -> "libc.so.6"
+  "libasm-0.188.so" -> "ld-linux-x86-64.so.2"
+  "libgcc_s.so.1" -> "libc.so.6"
+  "libpcre2-8.so.0.11.0" -> "libc.so.6"
+  "libncurses.so.6" -> "libtinfo.so.6"
+  "libncurses.so.6" -> "libc.so.6"
+  "libpanelw.so.6" -> "libncursesw.so.6"
+  "libpanelw.so.6" -> "libc.so.6"
+  "libmenuw.so.6" -> "libncursesw.so.6"
+  "libmenuw.so.6" -> "libc.so.6"
+  "libkrb5support.so.0" -> "libkeyutils.so.1"
+  "libkrb5support.so.0" -> "libcrypto.so.3"
+  "libkrb5support.so.0" -> "libresolv.so.2"
+  "libkrb5support.so.0" -> "libselinux.so.1"
+  "libkrb5support.so.0" -> "libc.so.6"
+  "libcom_err.so.2" -> "libc.so.6"
+  "libcom_err.so.2" -> "ld-linux-x86-64.so.2"
+  "libuuid.so.1.3.0" -> "libc.so.6"
+  "libuuid.so.1.3.0" -> "ld-linux-x86-64.so.2"
+  "libgcc_s-11-20230605.so.1" -> "libc.so.6"
+  "libunistring.so.2.1.0" -> "libc.so.6"
+  "libassuan.so.0.8.5" -> "libgpg-error.so.0"
+  "libassuan.so.0.8.5" -> "libc.so.6"
+  "libidn2.so.0.3.7" -> "libunistring.so.2"
+  "libidn2.so.0.3.7" -> "libc.so.6"
+  "libnpth.so.0.1.2" -> "libc.so.6"
+  "libdrop_ambient.so.0.0.0" -> "libc.so.6"
+  "libsolvext.so.1" -> "libsolv.so.1"
+  "libsolvext.so.1" -> "librpmio.so.9"
+  "libsolvext.so.1" -> "librpm.so.9"
+  "libsolvext.so.1" -> "libxml2.so.2"
+  "libsolvext.so.1" -> "libz.so.1"
+  "libsolvext.so.1" -> "liblzma.so.5"
+  "libsolvext.so.1" -> "libbz2.so.1"
+  "libsolvext.so.1" -> "libzstd.so.1"
+  "libsolvext.so.1" -> "libc.so.6"
+  "libncursesw.so.6.2" -> "libtinfo.so.6"
+  "libncursesw.so.6.2" -> "libc.so.6"
+  "libattr.so.1.1.2501" -> "libc.so.6"
+  "libjson-c.so.5" -> "libc.so.6"
+  "libjson-c.so.5" -> "ld-linux-x86-64.so.2"
+  "libyaml-0.so.2.0.9" -> "libc.so.6"
+  "libssl.so.3" -> "libcrypto.so.3"
+  "libssl.so.3" -> "libc.so.6"
+  "libcom_err.so.2.1" -> "libc.so.6"
+  "libcom_err.so.2.1" -> "ld-linux-x86-64.so.2"
+  "libgpg-error.so.0" -> "libc.so.6"
+  "libkdb5.so.10.0" -> "libgssrpc.so.4"
+  "libkdb5.so.10.0" -> "libkrb5.so.3"
+  "libkdb5.so.10.0" -> "libk5crypto.so.3"
+  "libkdb5.so.10.0" -> "libcom_err.so.2"
+  "libkdb5.so.10.0" -> "libkrb5support.so.0"
+  "libkdb5.so.10.0" -> "libkeyutils.so.1"
+  "libkdb5.so.10.0" -> "libcrypto.so.3"
+  "libkdb5.so.10.0" -> "libresolv.so.2"
+  "libkdb5.so.10.0" -> "libc.so.6"
+  "libselinux.so.1" -> "libpcre2-8.so.0"
+  "libselinux.so.1" -> "libc.so.6"
+  "libselinux.so.1" -> "ld-linux-x86-64.so.2"
+  "libncursesw.so.6" -> "libtinfo.so.6"
+  "libncursesw.so.6" -> "libc.so.6"
+  "libc_malloc_debug.so.0" -> "libc.so.6"
+  "libc_malloc_debug.so.0" -> "ld-linux-x86-64.so.2"
+  "libmount.so.1" -> "libblkid.so.1"
+  "libmount.so.1" -> "libselinux.so.1"
+  "libmount.so.1" -> "libc.so.6"
+  "libaudit.so.1.0.0" -> "libcap-ng.so.0"
+  "libaudit.so.1.0.0" -> "libc.so.6"
+  "libdl.so.2" -> "libc.so.6"
+  "libmvec.so.1" -> "libm.so.6"
+  "libmvec.so.1" -> "libc.so.6"
+  "libmvec.so.1" -> "ld-linux-x86-64.so.2"
+  "liblzma.so.5" -> "libc.so.6"
+  "libmpfr.so.6" -> "libgmp.so.10"
+  "libmpfr.so.6" -> "libc.so.6"
+  "libmpfr.so.6" -> "ld-linux-x86-64.so.2"
+  "libgssrpc.so.4" -> "libgssapi_krb5.so.2"
+  "libgssrpc.so.4" -> "libkrb5.so.3"
+  "libgssrpc.so.4" -> "libk5crypto.so.3"
+  "libgssrpc.so.4" -> "libcom_err.so.2"
+  "libgssrpc.so.4" -> "libkeyutils.so.1"
+  "libgssrpc.so.4" -> "libcrypto.so.3"
+  "libgssrpc.so.4" -> "libresolv.so.2"
+  "libgssrpc.so.4" -> "libc.so.6"
+  "libk5crypto.so.3.1" -> "libkrb5support.so.0"
+  "libk5crypto.so.3.1" -> "libkeyutils.so.1"
+  "libk5crypto.so.3.1" -> "libcrypto.so.3"
+  "libk5crypto.so.3.1" -> "libresolv.so.2"
+  "libk5crypto.so.3.1" -> "libc.so.6"
+  "libk5crypto.so.3.1" -> "ld-linux-x86-64.so.2"
+  "libsigsegv.so.2.0.6" -> "libc.so.6"
+  "libhistory.so.8" -> "libc.so.6"
+  "libxml2.so.2.10.4" -> "libz.so.1"
+  "libxml2.so.2.10.4" -> "liblzma.so.5"
+  "libxml2.so.2.10.4" -> "libm.so.6"
+  "libxml2.so.2.10.4" -> "libc.so.6"
+  "libtic.so.6" -> "libtinfo.so.6"
+  "libtic.so.6" -> "libc.so.6"
+  "libauparse.so.0" -> "libaudit.so.1"
+  "libauparse.so.0" -> "libcap-ng.so.0"
+  "libauparse.so.0" -> "libc.so.6"
+  "libgdbm_compat.so.4.0.0" -> "libgdbm.so.6"
+  "libgdbm_compat.so.4.0.0" -> "libc.so.6"
+  "libsmartcols.so.1" -> "libc.so.6"
+  "libkrad.so.0.0" -> "libkrb5.so.3"
+  "libkrad.so.0.0" -> "libk5crypto.so.3"
+  "libkrad.so.0.0" -> "libcom_err.so.2"
+  "libkrad.so.0.0" -> "libkrb5support.so.0"
+  "libkrad.so.0.0" -> "libkeyutils.so.1"
+  "libkrad.so.0.0" -> "libcrypto.so.3"
+  "libkrad.so.0.0" -> "libresolv.so.2"
+  "libkrad.so.0.0" -> "libselinux.so.1"
+  "libkrad.so.0.0" -> "libverto.so.1"
+  "libkrad.so.0.0" -> "libc.so.6"
+  "libgssapi_krb5.so.2" -> "libkrb5.so.3"
+  "libgssapi_krb5.so.2" -> "libk5crypto.so.3"
+  "libgssapi_krb5.so.2" -> "libcom_err.so.2"
+  "libgssapi_krb5.so.2" -> "libkrb5support.so.0"
+  "libgssapi_krb5.so.2" -> "libkeyutils.so.1"
+  "libgssapi_krb5.so.2" -> "libcrypto.so.3"
+  "libgssapi_krb5.so.2" -> "libresolv.so.2"
+  "libgssapi_krb5.so.2" -> "libc.so.6"
+  "libssl.so.3.0.8" -> "libcrypto.so.3"
+  "libssl.so.3.0.8" -> "libc.so.6"
+  "libkrb5.so.3" -> "libk5crypto.so.3"
+  "libkrb5.so.3" -> "libcom_err.so.2"
+  "libkrb5.so.3" -> "libkrb5support.so.0"
+  "libkrb5.so.3" -> "libkeyutils.so.1"
+  "libkrb5.so.3" -> "libcrypto.so.3"
+  "libkrb5.so.3" -> "libresolv.so.2"
+  "libkrb5.so.3" -> "libc.so.6"
+  "libhistory.so.8.1" -> "libc.so.6"
+  "librpmsign.so.9.1.3" -> "librpm.so.9"
+  "librpmsign.so.9.1.3" -> "libcap.so.2"
+  "librpmsign.so.9.1.3" -> "libacl.so.1"
+  "librpmsign.so.9.1.3" -> "libsqlite3.so.0"
+  "librpmsign.so.9.1.3" -> "librpmio.so.9"
+  "librpmsign.so.9.1.3" -> "libbz2.so.1"
+  "librpmsign.so.9.1.3" -> "libz.so.1"
+  "librpmsign.so.9.1.3" -> "liblzma.so.5"
+  "librpmsign.so.9.1.3" -> "libzstd.so.1"
+  "librpmsign.so.9.1.3" -> "liblua-5.4.so"
+  "librpmsign.so.9.1.3" -> "libm.so.6"
+  "librpmsign.so.9.1.3" -> "libpopt.so.0"
+  "librpmsign.so.9.1.3" -> "libaudit.so.1"
+  "librpmsign.so.9.1.3" -> "libcrypto.so.3"
+  "librpmsign.so.9.1.3" -> "libc.so.6"
+  "libgcrypt.so.20" -> "libgpg-error.so.0"
+  "libgcrypt.so.20" -> "libc.so.6"
+  "libformw.so.6.2" -> "libncursesw.so.6"
+  "libformw.so.6.2" -> "libc.so.6"
+  "libblkid.so.1.1.0" -> "libc.so.6"
+  "libpcre2-posix.so.3.0.2" -> "libpcre2-8.so.0"
+  "libpcre2-posix.so.3.0.2" -> "libc.so.6"
+  "libdw-0.188.so" -> "libelf.so.1"
+  "libdw-0.188.so" -> "libz.so.1"
+  "libdw-0.188.so" -> "libzstd.so.1"
+  "libdw-0.188.so" -> "liblzma.so.5"
+  "libdw-0.188.so" -> "libbz2.so.1"
+  "libdw-0.188.so" -> "libc.so.6"
+  "libdw-0.188.so" -> "ld-linux-x86-64.so.2"
+  "libpsx.so.2" -> "libgcc_s.so.1"
+  "libpsx.so.2" -> "libc.so.6"
+  "libpthread.so.0" -> "libc.so.6"
+  "libsolv.so.1" -> "libcrypto.so.3"
+  "libsolv.so.1" -> "libc.so.6"
+  "libpanel.so.6.2" -> "libncurses.so.6"
+  "libpanel.so.6.2" -> "libc.so.6"
+  "libmenu.so.6" -> "libncurses.so.6"
+  "libmenu.so.6" -> "libc.so.6"
+  "libdw.so.1" -> "libelf.so.1"
+  "libdw.so.1" -> "libz.so.1"
+  "libdw.so.1" -> "libzstd.so.1"
+  "libdw.so.1" -> "liblzma.so.5"
+  "libdw.so.1" -> "libbz2.so.1"
+  "libdw.so.1" -> "libc.so.6"
+  "libdw.so.1" -> "ld-linux-x86-64.so.2"
+  "libreadline.so.8" -> "libtinfo.so.6"
+  "libreadline.so.8" -> "libc.so.6"
+  "libsepol.so.2" -> "libc.so.6"
+  "libverto.so.1.0.0" -> "libc.so.6"
+  "libtasn1.so.6" -> "libc.so.6"
+  "librpmio.so.9.1.3" -> "libbz2.so.1"
+  "librpmio.so.9.1.3" -> "libz.so.1"
+  "librpmio.so.9.1.3" -> "libpopt.so.0"
+  "librpmio.so.9.1.3" -> "liblzma.so.5"
+  "librpmio.so.9.1.3" -> "libzstd.so.1"
+  "librpmio.so.9.1.3" -> "liblua-5.4.so"
+  "librpmio.so.9.1.3" -> "libm.so.6"
+  "librpmio.so.9.1.3" -> "libaudit.so.1"
+  "librpmio.so.9.1.3" -> "libcrypto.so.3"
+  "librpmio.so.9.1.3" -> "libc.so.6"
+  "librpmio.so.9.1.3" -> "ld-linux-x86-64.so.2"
+  "libzstd.so.1" -> "libc.so.6"
+  "libresolv.so.2" -> "libc.so.6"
+  "libkrb5.so.3.3" -> "libk5crypto.so.3"
+  "libkrb5.so.3.3" -> "libcom_err.so.2"
+  "libkrb5.so.3.3" -> "libkrb5support.so.0"
+  "libkrb5.so.3.3" -> "libkeyutils.so.1"
+  "libkrb5.so.3.3" -> "libcrypto.so.3"
+  "libkrb5.so.3.3" -> "libresolv.so.2"
+  "libkrb5.so.3.3" -> "libc.so.6"
+  "libbz2.so.1.0.8" -> "libc.so.6"
+  "libunistring.so.2" -> "libc.so.6"
+  "libreadline.so.8.1" -> "libtinfo.so.6"
+  "libreadline.so.8.1" -> "libc.so.6"
+  "libm.so.6" -> "libc.so.6"
+  "libm.so.6" -> "ld-linux-x86-64.so.2"
+  "libstdc++.so.6.0.29" -> "libm.so.6"
+  "libstdc++.so.6.0.29" -> "libc.so.6"
+  "libstdc++.so.6.0.29" -> "ld-linux-x86-64.so.2"
+  "libstdc++.so.6.0.29" -> "libgcc_s.so.1"
+  "libformw.so.6" -> "libncursesw.so.6"
+  "libformw.so.6" -> "libc.so.6"
+  "libxml2.so.2" -> "libz.so.1"
+  "libxml2.so.2" -> "liblzma.so.5"
+  "libxml2.so.2" -> "libm.so.6"
+  "libxml2.so.2" -> "libc.so.6"
+  "libanl.so.1" -> "libc.so.6"
+  "libattr.so.1" -> "libc.so.6"
+  "libpsl.so.5.3.3" -> "libunistring.so.2"
+  "libpsl.so.5.3.3" -> "libidn2.so.0"
+  "libpsl.so.5.3.3" -> "libc.so.6"
+  "libsqlite3.so.0.8.6" -> "libm.so.6"
+  "libsqlite3.so.0.8.6" -> "libz.so.1"
+  "libsqlite3.so.0.8.6" -> "libc.so.6"
+  "libpopt.so.0" -> "libc.so.6"
+  "libpcre2-posix.so.3" -> "libpcre2-8.so.0"
+  "libpcre2-posix.so.3" -> "libc.so.6"
+  "libauparse.so.0.0.0" -> "libaudit.so.1"
+  "libauparse.so.0.0.0" -> "libcap-ng.so.0"
+  "libauparse.so.0.0.0" -> "libc.so.6"
+  "libpanelw.so.6.2" -> "libncursesw.so.6"
+  "libpanelw.so.6.2" -> "libc.so.6"
+  "libgobject-2.0.so.0" -> "libglib-2.0.so.0"
+  "libgobject-2.0.so.0" -> "libffi.so.8"
+  "libgobject-2.0.so.0" -> "libc.so.6"
+  "libarchive.so.13.7.4" -> "libcrypto.so.3"
+  "libarchive.so.13.7.4" -> "libacl.so.1"
+  "libarchive.so.13.7.4" -> "liblzma.so.5"
+  "libarchive.so.13.7.4" -> "libzstd.so.1"
+  "libarchive.so.13.7.4" -> "liblz4.so.1"
+  "libarchive.so.13.7.4" -> "libbz2.so.1"
+  "libarchive.so.13.7.4" -> "libz.so.1"
+  "libarchive.so.13.7.4" -> "libxml2.so.2"
+  "libarchive.so.13.7.4" -> "libc.so.6"
+  "libcrypt.so.2" -> "libc.so.6"
+  "libexpat.so.1.9.3" -> "libm.so.6"
+  "libexpat.so.1.9.3" -> "libc.so.6"
+  "libpsx.so.2.48" -> "libgcc_s.so.1"
+  "libpsx.so.2.48" -> "libc.so.6"
+  "libkeyutils.so.1" -> "libc.so.6"
+  "libgomp.so.1" -> "libc.so.6"
+  "libz.so.1.2.11" -> "libc.so.6"
+  "libpsl.so.5" -> "libunistring.so.2"
+  "libpsl.so.5" -> "libidn2.so.0"
+  "libpsl.so.5" -> "libc.so.6"
+  "libpcprofile.so" -> "libc.so.6"
+  "libasm.so.1" -> "libelf.so.1"
+  "libasm.so.1" -> "libdw.so.1"
+  "libasm.so.1" -> "libc.so.6"
+  "libasm.so.1" -> "ld-linux-x86-64.so.2"
+  "libkdb5.so.10" -> "libgssrpc.so.4"
+  "libkdb5.so.10" -> "libkrb5.so.3"
+  "libkdb5.so.10" -> "libk5crypto.so.3"
+  "libkdb5.so.10" -> "libcom_err.so.2"
+  "libkdb5.so.10" -> "libkrb5support.so.0"
+  "libkdb5.so.10" -> "libkeyutils.so.1"
+  "libkdb5.so.10" -> "libcrypto.so.3"
+  "libkdb5.so.10" -> "libresolv.so.2"
+  "libkdb5.so.10" -> "libc.so.6"
+  "libsqlite3.so.0" -> "libm.so.6"
+  "libsqlite3.so.0" -> "libz.so.1"
+  "libsqlite3.so.0" -> "libc.so.6"
+  "libarchive.so.13" -> "libcrypto.so.3"
+  "libarchive.so.13" -> "libacl.so.1"
+  "libarchive.so.13" -> "liblzma.so.5"
+  "libarchive.so.13" -> "libzstd.so.1"
+  "libarchive.so.13" -> "liblz4.so.1"
+  "libarchive.so.13" -> "libbz2.so.1"
+  "libarchive.so.13" -> "libz.so.1"
+  "libarchive.so.13" -> "libxml2.so.2"
+  "libarchive.so.13" -> "libc.so.6"
+  "libgdbm_compat.so.4" -> "libgdbm.so.6"
+  "libgdbm_compat.so.4" -> "libc.so.6"
+  "libzstd.so.1.5.5" -> "libc.so.6"
+  "libpython3.9.so.1.0" -> "libm.so.6"
+  "libpython3.9.so.1.0" -> "libc.so.6"
+  "liblz4.so.1.9.4" -> "libc.so.6"
+  "libgthread-2.0.so.0.7400.7" -> "libglib-2.0.so.0"
+  "libidn2.so.0" -> "libunistring.so.2"
+  "libidn2.so.0" -> "libc.so.6"
+  "libcurl.so.4.8.0" -> "libnghttp2.so.14"
+  "libcurl.so.4.8.0" -> "libidn2.so.0"
+  "libcurl.so.4.8.0" -> "libpsl.so.5"
+  "libcurl.so.4.8.0" -> "libssl.so.3"
+  "libcurl.so.4.8.0" -> "libcrypto.so.3"
+  "libcurl.so.4.8.0" -> "libgssapi_krb5.so.2"
+  "libcurl.so.4.8.0" -> "libz.so.1"
+  "libcurl.so.4.8.0" -> "libc.so.6"
+  "liblzma.so.5.2.5" -> "libc.so.6"
+  "libform.so.6" -> "libncurses.so.6"
+  "libform.so.6" -> "libc.so.6"
+  "libc.so.6" -> "ld-linux-x86-64.so.2"
+  "libacl.so.1" -> "libattr.so.1"
+  "libacl.so.1" -> "libc.so.6"
+  "libtic.so.6.2" -> "libtinfo.so.6"
+  "libtic.so.6.2" -> "libc.so.6"
+  "libsmartcols.so.1.1.0" -> "libc.so.6"
+  "libcap.so.2" -> "libc.so.6"
+  "libmpfr.so.6.1.0" -> "libgmp.so.10"
+  "libmpfr.so.6.1.0" -> "libc.so.6"
+  "libmpfr.so.6.1.0" -> "ld-linux-x86-64.so.2"
+  "libtasn1.so.6.6.3" -> "libc.so.6"
+  "p11-kit-proxy.so" -> "libffi.so.8"
+  "p11-kit-proxy.so" -> "libc.so.6"
+  "p11-kit-proxy.so" -> "ld-linux-x86-64.so.2"
+  "libcap-ng.so.0" -> "libc.so.6"
+  "libcap-ng.so.0" -> "ld-linux-x86-64.so.2"
+  "libBrokenLocale.so.1" -> "libc.so.6"
+  "libgpg-error.so.0.32.0" -> "libc.so.6"
+  "libgmodule-2.0.so.0" -> "libglib-2.0.so.0"
+  "libgmodule-2.0.so.0" -> "libc.so.6"
+  "librpmbuild.so.9" -> "librpm.so.9"
+  "librpmbuild.so.9" -> "libcap.so.2"
+  "librpmbuild.so.9" -> "libacl.so.1"
+  "librpmbuild.so.9" -> "libsqlite3.so.0"
+  "librpmbuild.so.9" -> "librpmio.so.9"
+  "librpmbuild.so.9" -> "libbz2.so.1"
+  "librpmbuild.so.9" -> "libz.so.1"
+  "librpmbuild.so.9" -> "liblzma.so.5"
+  "librpmbuild.so.9" -> "libzstd.so.1"
+  "librpmbuild.so.9" -> "liblua-5.4.so"
+  "librpmbuild.so.9" -> "libm.so.6"
+  "librpmbuild.so.9" -> "libpopt.so.0"
+  "librpmbuild.so.9" -> "libmagic.so.1"
+  "librpmbuild.so.9" -> "libelf.so.1"
+  "librpmbuild.so.9" -> "libdw.so.1"
+  "librpmbuild.so.9" -> "libaudit.so.1"
+  "librpmbuild.so.9" -> "libcrypto.so.3"
+  "librpmbuild.so.9" -> "libgomp.so.1"
+  "librpmbuild.so.9" -> "libgcc_s.so.1"
+  "librpmbuild.so.9" -> "libc.so.6"
+  "libcrypto.so.3" -> "libz.so.1"
+  "libcrypto.so.3" -> "libc.so.6"
+  "libcomps.so.0" -> "libexpat.so.1"
+  "libcomps.so.0" -> "libxml2.so.2"
+  "libcomps.so.0" -> "libm.so.6"
+  "libcomps.so.0" -> "libc.so.6"
+  "libcap-ng.so.0.0.0" -> "libc.so.6"
+  "libcap-ng.so.0.0.0" -> "ld-linux-x86-64.so.2"
+  "libk5crypto.so.3" -> "libkrb5support.so.0"
+  "libk5crypto.so.3" -> "libkeyutils.so.1"
+  "libk5crypto.so.3" -> "libcrypto.so.3"
+  "libk5crypto.so.3" -> "libresolv.so.2"
+  "libk5crypto.so.3" -> "libc.so.6"
+  "libk5crypto.so.3" -> "ld-linux-x86-64.so.2"
+  "libmodulemd.so.2.13.0" -> "libgobject-2.0.so.0"
+  "libmodulemd.so.2.13.0" -> "libglib-2.0.so.0"
+  "libmodulemd.so.2.13.0" -> "libmagic.so.1"
+  "libmodulemd.so.2.13.0" -> "librpmio.so.9"
+  "libmodulemd.so.2.13.0" -> "libyaml-0.so.2"
+  "libmodulemd.so.2.13.0" -> "libgcc_s.so.1"
+  "libmodulemd.so.2.13.0" -> "libc.so.6"
+  "libpanel.so.6" -> "libncurses.so.6"
+  "libpanel.so.6" -> "libc.so.6"
+  "libp11-kit.so.0.3.0" -> "libffi.so.8"
+  "libp11-kit.so.0.3.0" -> "libc.so.6"
+  "libp11-kit.so.0.3.0" -> "ld-linux-x86-64.so.2"
+  "libform.so.6.2" -> "libncurses.so.6"
+  "libform.so.6.2" -> "libc.so.6"
+  "libtinfo.so.6" -> "libc.so.6"
+  "libgdbm.so.6.0.0" -> "libc.so.6"
+  "libgdbm.so.6.0.0" -> "ld-linux-x86-64.so.2"
+  "libmagic.so.1" -> "libz.so.1"
+  "libmagic.so.1" -> "libc.so.6"
+  "libgmodule-2.0.so.0.7400.7" -> "libglib-2.0.so.0"
+  "libgmodule-2.0.so.0.7400.7" -> "libc.so.6"
+  "libgpgme.so.11" -> "libassuan.so.0"
+  "libgpgme.so.11" -> "libgpg-error.so.0"
+  "libgpgme.so.11" -> "libc.so.6"
+  "libgpgme.so.11" -> "ld-linux-x86-64.so.2"
+  "libgthread-2.0.so.0" -> "libglib-2.0.so.0"
+  "libnghttp2.so.14" -> "libc.so.6"
+  "libcrypt.so.2.0.0" -> "libc.so.6"
+  "libffi.so.8" -> "libc.so.6"
+  "libcurl.so.4" -> "libnghttp2.so.14"
+  "libcurl.so.4" -> "libidn2.so.0"
+  "libcurl.so.4" -> "libpsl.so.5"
+  "libcurl.so.4" -> "libssl.so.3"
+  "libcurl.so.4" -> "libcrypto.so.3"
+  "libcurl.so.4" -> "libgssapi_krb5.so.2"
+  "libcurl.so.4" -> "libz.so.1"
+  "libcurl.so.4" -> "libc.so.6"
+  "libbz2.so.1" -> "libc.so.6"
+  "libgssrpc.so.4.2" -> "libgssapi_krb5.so.2"
+  "libgssrpc.so.4.2" -> "libkrb5.so.3"
+  "libgssrpc.so.4.2" -> "libk5crypto.so.3"
+  "libgssrpc.so.4.2" -> "libcom_err.so.2"
+  "libgssrpc.so.4.2" -> "libkeyutils.so.1"
+  "libgssrpc.so.4.2" -> "libcrypto.so.3"
+  "libgssrpc.so.4.2" -> "libresolv.so.2"
+  "libgssrpc.so.4.2" -> "libc.so.6"
+  "libnss_compat.so.2" -> "libc.so.6"
+  "libkrb5support.so.0.1" -> "libkeyutils.so.1"
+  "libkrb5support.so.0.1" -> "libcrypto.so.3"
+  "libkrb5support.so.0.1" -> "libresolv.so.2"
+  "libkrb5support.so.0.1" -> "libselinux.so.1"
+  "libkrb5support.so.0.1" -> "libc.so.6"
+  "libgdbm.so.6" -> "libc.so.6"
+  "libgdbm.so.6" -> "ld-linux-x86-64.so.2"
+  "libpython3.so" -> "libpython3.9.so.1.0"
+  "libpython3.so" -> "libc.so.6"
+  "libgcrypt.so.20.4.2" -> "libgpg-error.so.0"
+  "libgcrypt.so.20.4.2" -> "libc.so.6"
+  "libexpat.so.1" -> "libm.so.6"
+  "libexpat.so.1" -> "libc.so.6"
+  "librpmbuild.so.9.1.3" -> "librpm.so.9"
+  "librpmbuild.so.9.1.3" -> "libcap.so.2"
+  "librpmbuild.so.9.1.3" -> "libacl.so.1"
+  "librpmbuild.so.9.1.3" -> "libsqlite3.so.0"
+  "librpmbuild.so.9.1.3" -> "librpmio.so.9"
+  "librpmbuild.so.9.1.3" -> "libbz2.so.1"
+  "librpmbuild.so.9.1.3" -> "libz.so.1"
+  "librpmbuild.so.9.1.3" -> "liblzma.so.5"
+  "librpmbuild.so.9.1.3" -> "libzstd.so.1"
+  "librpmbuild.so.9.1.3" -> "liblua-5.4.so"
+  "librpmbuild.so.9.1.3" -> "libm.so.6"
+  "librpmbuild.so.9.1.3" -> "libpopt.so.0"
+  "librpmbuild.so.9.1.3" -> "libmagic.so.1"
+  "librpmbuild.so.9.1.3" -> "libelf.so.1"
+  "librpmbuild.so.9.1.3" -> "libdw.so.1"
+  "librpmbuild.so.9.1.3" -> "libaudit.so.1"
+  "librpmbuild.so.9.1.3" -> "libcrypto.so.3"
+  "librpmbuild.so.9.1.3" -> "libgomp.so.1"
+  "librpmbuild.so.9.1.3" -> "libgcc_s.so.1"
+  "librpmbuild.so.9.1.3" -> "libc.so.6"
+  "libgssapi_krb5.so.2.2" -> "libkrb5.so.3"
+  "libgssapi_krb5.so.2.2" -> "libk5crypto.so.3"
+  "libgssapi_krb5.so.2.2" -> "libcom_err.so.2"
+  "libgssapi_krb5.so.2.2" -> "libkrb5support.so.0"
+  "libgssapi_krb5.so.2.2" -> "libkeyutils.so.1"
+  "libgssapi_krb5.so.2.2" -> "libcrypto.so.3"
+  "libgssapi_krb5.so.2.2" -> "libresolv.so.2"
+  "libgssapi_krb5.so.2.2" -> "libc.so.6"
+  "libgmp.so.10" -> "libc.so.6"
+  "libp11-kit.so.0" -> "libffi.so.8"
+  "libp11-kit.so.0" -> "libc.so.6"
+  "libp11-kit.so.0" -> "ld-linux-x86-64.so.2"
+  "librepo.so.0" -> "libxml2.so.2"
+  "librepo.so.0" -> "libcurl.so.4"
+  "librepo.so.0" -> "libcrypto.so.3"
+  "librepo.so.0" -> "libgpgme.so.11"
+  "librepo.so.0" -> "libglib-2.0.so.0"
+  "librepo.so.0" -> "libselinux.so.1"
+  "librepo.so.0" -> "libgcc_s.so.1"
+  "librepo.so.0" -> "libc.so.6"
+  "libverto.so.1" -> "libc.so.6"
+  "libtinfo.so.6.2" -> "libc.so.6"
+  "libelf.so.1" -> "libz.so.1"
+  "libelf.so.1" -> "libc.so.6"
+  "libelf.so.1" -> "ld-linux-x86-64.so.2"
+  "libffi.so.8.1.2" -> "libc.so.6"
+  "liblua-5.3.so" -> "libm.so.6"
+  "liblua-5.3.so" -> "libc.so.6"
+  "librpmio.so.9" -> "libbz2.so.1"
+  "librpmio.so.9" -> "libz.so.1"
+  "librpmio.so.9" -> "libpopt.so.0"
+  "librpmio.so.9" -> "liblzma.so.5"
+  "librpmio.so.9" -> "libzstd.so.1"
+  "librpmio.so.9" -> "liblua-5.4.so"
+  "librpmio.so.9" -> "libm.so.6"
+  "librpmio.so.9" -> "libaudit.so.1"
+  "librpmio.so.9" -> "libcrypto.so.3"
+  "librpmio.so.9" -> "libc.so.6"
+  "librpmio.so.9" -> "ld-linux-x86-64.so.2"
+  "librt.so.1" -> "libc.so.6"
+  "libgpgme.so.11.24.1" -> "libassuan.so.0"
+  "libgpgme.so.11.24.1" -> "libgpg-error.so.0"
+  "libgpgme.so.11.24.1" -> "libc.so.6"
+  "libgpgme.so.11.24.1" -> "ld-linux-x86-64.so.2"
+  "libelf-0.188.so" -> "libz.so.1"
+  "libelf-0.188.so" -> "libc.so.6"
+  "libelf-0.188.so" -> "ld-linux-x86-64.so.2"
+  "libnss_files.so.2" -> "libc.so.6"
+  "libpcre2-8.so.0" -> "libc.so.6"
+  "libkrad.so.0" -> "libkrb5.so.3"
+  "libkrad.so.0" -> "libk5crypto.so.3"
+  "libkrad.so.0" -> "libcom_err.so.2"
+  "libkrad.so.0" -> "libkrb5support.so.0"
+  "libkrad.so.0" -> "libkeyutils.so.1"
+  "libkrad.so.0" -> "libcrypto.so.3"
+  "libkrad.so.0" -> "libresolv.so.2"
+  "libkrad.so.0" -> "libselinux.so.1"
+  "libkrad.so.0" -> "libverto.so.1"
+  "libkrad.so.0" -> "libc.so.6"
+  "libncurses.so.6.2" -> "libtinfo.so.6"
+  "libncurses.so.6.2" -> "libc.so.6"
+  "librpm.so.9" -> "librpmio.so.9"
+  "librpm.so.9" -> "libbz2.so.1"
+  "librpm.so.9" -> "libz.so.1"
+  "librpm.so.9" -> "liblzma.so.5"
+  "librpm.so.9" -> "libzstd.so.1"
+  "librpm.so.9" -> "liblua-5.4.so"
+  "librpm.so.9" -> "libm.so.6"
+  "librpm.so.9" -> "libpopt.so.0"
+  "librpm.so.9" -> "libcap.so.2"
+  "librpm.so.9" -> "libacl.so.1"
+  "librpm.so.9" -> "libsqlite3.so.0"
+  "librpm.so.9" -> "libaudit.so.1"
+  "librpm.so.9" -> "libcrypto.so.3"
+  "librpm.so.9" -> "libc.so.6"
+  "librpm.so.9" -> "ld-linux-x86-64.so.2"
+  "librpmsign.so.9" -> "librpm.so.9"
+  "librpmsign.so.9" -> "libcap.so.2"
+  "librpmsign.so.9" -> "libacl.so.1"
+  "librpmsign.so.9" -> "libsqlite3.so.0"
+  "librpmsign.so.9" -> "librpmio.so.9"
+  "librpmsign.so.9" -> "libbz2.so.1"
+  "librpmsign.so.9" -> "libz.so.1"
+  "librpmsign.so.9" -> "liblzma.so.5"
+  "librpmsign.so.9" -> "libzstd.so.1"
+  "librpmsign.so.9" -> "liblua-5.4.so"
+  "librpmsign.so.9" -> "libm.so.6"
+  "librpmsign.so.9" -> "libpopt.so.0"
+  "librpmsign.so.9" -> "libaudit.so.1"
+  "librpmsign.so.9" -> "libcrypto.so.3"
+  "librpmsign.so.9" -> "libc.so.6"
+  "libglib-2.0.so.0.7400.7" -> "libpcre2-8.so.0"
+  "libglib-2.0.so.0.7400.7" -> "libc.so.6"
+  "libmagic.so.1.0.0" -> "libz.so.1"
+  "libmagic.so.1.0.0" -> "libc.so.6"
+  "libglib-2.0.so.0" -> "libpcre2-8.so.0"
+  "libglib-2.0.so.0" -> "libc.so.6"
+  "libgobject-2.0.so.0.7400.7" -> "libglib-2.0.so.0"
+  "libgobject-2.0.so.0.7400.7" -> "libffi.so.8"
+  "libgobject-2.0.so.0.7400.7" -> "libc.so.6"
+  "libmemusage.so" -> "libc.so.6"
+  "libmemusage.so" -> "ld-linux-x86-64.so.2"
+  "libnssckbi.so" -> "libtasn1.so.6"
+  "libnssckbi.so" -> "libc.so.6"
+  "libnssckbi.so" -> "ld-linux-x86-64.so.2"
+  "libthread_db.so.1" -> "libc.so.6"
+  "libnpth.so.0" -> "libc.so.6"
+  "libyaml-0.so.2" -> "libc.so.6"
+  "libgmp.so.10.4.1" -> "libc.so.6"
+  "libaudit.so.1" -> "libcap-ng.so.0"
+  "libaudit.so.1" -> "libc.so.6"
+  "libnghttp2.so.14.26.0" -> "libc.so.6"
+  "libblkid.so.1" -> "libc.so.6"
+  "libcap.so.2.48" -> "libc.so.6"
+  "libutil.so.1" -> "libc.so.6"
+  "libassuan.so.0" -> "libgpg-error.so.0"
+  "libassuan.so.0" -> "libc.so.6"
+  "libgomp.so.1.0.0" -> "libc.so.6"
+  "libacl.so.1.1.2301" -> "libattr.so.1"
+  "libacl.so.1.1.2301" -> "libc.so.6"
+  "libnss_dns.so.2" -> "libresolv.so.2"
+  "libnss_dns.so.2" -> "libc.so.6"
+  "libstdc++.so.6" -> "libm.so.6"
+  "libstdc++.so.6" -> "libc.so.6"
+  "libstdc++.so.6" -> "ld-linux-x86-64.so.2"
+  "libstdc++.so.6" -> "libgcc_s.so.1"
+  "liblua-5.4.so" -> "libm.so.6"
+  "liblua-5.4.so" -> "libc.so.6"
+  "librpm.so.9.1.3" -> "librpmio.so.9"
+  "librpm.so.9.1.3" -> "libbz2.so.1"
+  "librpm.so.9.1.3" -> "libz.so.1"
+  "librpm.so.9.1.3" -> "liblzma.so.5"
+  "librpm.so.9.1.3" -> "libzstd.so.1"
+  "librpm.so.9.1.3" -> "liblua-5.4.so"
+  "librpm.so.9.1.3" -> "libm.so.6"
+  "librpm.so.9.1.3" -> "libpopt.so.0"
+  "librpm.so.9.1.3" -> "libcap.so.2"
+  "librpm.so.9.1.3" -> "libacl.so.1"
+  "librpm.so.9.1.3" -> "libsqlite3.so.0"
+  "librpm.so.9.1.3" -> "libaudit.so.1"
+  "librpm.so.9.1.3" -> "libcrypto.so.3"
+  "librpm.so.9.1.3" -> "libc.so.6"
+  "librpm.so.9.1.3" -> "ld-linux-x86-64.so.2"
+  "libcrypto.so.3.0.8" -> "libz.so.1"
+  "libcrypto.so.3.0.8" -> "libc.so.6"
+  "libgio-2.0.so.0.7400.7" -> "libglib-2.0.so.0"
+  "libgio-2.0.so.0.7400.7" -> "libgobject-2.0.so.0"
+  "libgio-2.0.so.0.7400.7" -> "libgmodule-2.0.so.0"
+  "libgio-2.0.so.0.7400.7" -> "libz.so.1"
+  "libgio-2.0.so.0.7400.7" -> "libmount.so.1"
+  "libgio-2.0.so.0.7400.7" -> "libselinux.so.1"
+  "libgio-2.0.so.0.7400.7" -> "libc.so.6"
+  "libsigsegv.so.2" -> "libc.so.6"
+  "liblz4.so.1" -> "libc.so.6"
+  "libkeyutils.so.1.10" -> "libc.so.6"
+  "libjson-c.so.5.0.0" -> "libc.so.6"
+  "libjson-c.so.5.0.0" -> "ld-linux-x86-64.so.2"
+  "libmenu.so.6.2" -> "libncurses.so.6"
+  "libmenu.so.6.2" -> "libc.so.6"
+  "libuuid.so.1" -> "libc.so.6"
+  "libuuid.so.1" -> "ld-linux-x86-64.so.2"
+  "libz.so.1" -> "libc.so.6"
+  "libmount.so.1.1.0" -> "libblkid.so.1"
+  "libmount.so.1.1.0" -> "libselinux.so.1"
+  "libmount.so.1.1.0" -> "libc.so.6"
+  "libdnf.so.2" -> "librepo.so.0"
+  "libdnf.so.2" -> "libglib-2.0.so.0"
+  "libdnf.so.2" -> "libgio-2.0.so.0"
+  "libdnf.so.2" -> "libgobject-2.0.so.0"
+  "libdnf.so.2" -> "libsolv.so.1"
+  "libdnf.so.2" -> "libsolvext.so.1"
+  "libdnf.so.2" -> "librpm.so.9"
+  "libdnf.so.2" -> "librpmio.so.9"
+  "libdnf.so.2" -> "libsqlite3.so.0"
+  "libdnf.so.2" -> "libjson-c.so.5"
+  "libdnf.so.2" -> "libmodulemd.so.2"
+  "libdnf.so.2" -> "libsmartcols.so.1"
+  "libdnf.so.2" -> "libgpgme.so.11"
+  "libdnf.so.2" -> "libselinux.so.1"
+  "libdnf.so.2" -> "libstdc++.so.6"
+  "libdnf.so.2" -> "libgcc_s.so.1"
+  "libdnf.so.2" -> "libc.so.6"
+  "libgio-2.0.so.0" -> "libglib-2.0.so.0"
+  "libgio-2.0.so.0" -> "libgobject-2.0.so.0"
+  "libgio-2.0.so.0" -> "libgmodule-2.0.so.0"
+  "libgio-2.0.so.0" -> "libz.so.1"
+  "libgio-2.0.so.0" -> "libmount.so.1"
+  "libgio-2.0.so.0" -> "libselinux.so.1"
+  "libgio-2.0.so.0" -> "libc.so.6"
+  "libmodulemd.so.2" -> "libgobject-2.0.so.0"
+  "libmodulemd.so.2" -> "libglib-2.0.so.0"
+  "libmodulemd.so.2" -> "libmagic.so.1"
+  "libmodulemd.so.2" -> "librpmio.so.9"
+  "libmodulemd.so.2" -> "libyaml-0.so.2"
+  "libmodulemd.so.2" -> "libgcc_s.so.1"
+  "libmodulemd.so.2" -> "libc.so.6"
+  "libdrop_ambient.so.0" -> "libc.so.6"
+  "libpopt.so.0.0.1" -> "libc.so.6"
+  "libmenuw.so.6.2" -> "libncursesw.so.6"
+  "libmenuw.so.6.2" -> "libc.so.6"
+  "libSegFault.so" -> "libc.so.6"
+  "libasm-0.188.so" -> "libelf.so.1"
+  "libasm-0.188.so" -> "libdw.so.1"
+  "libasm-0.188.so" -> "libc.so.6"
+  "libasm-0.188.so" -> "ld-linux-x86-64.so.2"
+  "libgcc_s.so.1" -> "libc.so.6"
+  "libpcre2-8.so.0.11.0" -> "libc.so.6"
+  "libncurses.so.6" -> "libtinfo.so.6"
+  "libncurses.so.6" -> "libc.so.6"
+  "libpanelw.so.6" -> "libncursesw.so.6"
+  "libpanelw.so.6" -> "libc.so.6"
+  "libmenuw.so.6" -> "libncursesw.so.6"
+  "libmenuw.so.6" -> "libc.so.6"
+  "libkrb5support.so.0" -> "libkeyutils.so.1"
+  "libkrb5support.so.0" -> "libcrypto.so.3"
+  "libkrb5support.so.0" -> "libresolv.so.2"
+  "libkrb5support.so.0" -> "libselinux.so.1"
+  "libkrb5support.so.0" -> "libc.so.6"
+  "libcom_err.so.2" -> "libc.so.6"
+  "libcom_err.so.2" -> "ld-linux-x86-64.so.2"
+  "libuuid.so.1.3.0" -> "libc.so.6"
+  "libuuid.so.1.3.0" -> "ld-linux-x86-64.so.2"
+  "libgcc_s-11-20230605.so.1" -> "libc.so.6"
+  "libunistring.so.2.1.0" -> "libc.so.6"
+  "libassuan.so.0.8.5" -> "libgpg-error.so.0"
+  "libassuan.so.0.8.5" -> "libc.so.6"
+  "libidn2.so.0.3.7" -> "libunistring.so.2"
+  "libidn2.so.0.3.7" -> "libc.so.6"
+  "libnpth.so.0.1.2" -> "libc.so.6"
+  "libdrop_ambient.so.0.0.0" -> "libc.so.6"
+  "libsolvext.so.1" -> "libsolv.so.1"
+  "libsolvext.so.1" -> "librpmio.so.9"
+  "libsolvext.so.1" -> "librpm.so.9"
+  "libsolvext.so.1" -> "libxml2.so.2"
+  "libsolvext.so.1" -> "libz.so.1"
+  "libsolvext.so.1" -> "liblzma.so.5"
+  "libsolvext.so.1" -> "libbz2.so.1"
+  "libsolvext.so.1" -> "libzstd.so.1"
+  "libsolvext.so.1" -> "libc.so.6"
+  "libncursesw.so.6.2" -> "libtinfo.so.6"
+  "libncursesw.so.6.2" -> "libc.so.6"
+  "libattr.so.1.1.2501" -> "libc.so.6"
+  "libjson-c.so.5" -> "libc.so.6"
+  "libjson-c.so.5" -> "ld-linux-x86-64.so.2"
+  "libyaml-0.so.2.0.9" -> "libc.so.6"
+  "libssl.so.3" -> "libcrypto.so.3"
+  "libssl.so.3" -> "libc.so.6"
+  "libcom_err.so.2.1" -> "libc.so.6"
+  "libcom_err.so.2.1" -> "ld-linux-x86-64.so.2"
+  "libgpg-error.so.0" -> "libc.so.6"
+  "libkdb5.so.10.0" -> "libgssrpc.so.4"
+  "libkdb5.so.10.0" -> "libkrb5.so.3"
+  "libkdb5.so.10.0" -> "libk5crypto.so.3"
+  "libkdb5.so.10.0" -> "libcom_err.so.2"
+  "libkdb5.so.10.0" -> "libkrb5support.so.0"
+  "libkdb5.so.10.0" -> "libkeyutils.so.1"
+  "libkdb5.so.10.0" -> "libcrypto.so.3"
+  "libkdb5.so.10.0" -> "libresolv.so.2"
+  "libkdb5.so.10.0" -> "libc.so.6"
+  "libselinux.so.1" -> "libpcre2-8.so.0"
+  "libselinux.so.1" -> "libc.so.6"
+  "libselinux.so.1" -> "ld-linux-x86-64.so.2"
+  "libncursesw.so.6" -> "libtinfo.so.6"
+  "libncursesw.so.6" -> "libc.so.6"
+  "libc_malloc_debug.so.0" -> "libc.so.6"
+  "libc_malloc_debug.so.0" -> "ld-linux-x86-64.so.2"
+  "libmount.so.1" -> "libblkid.so.1"
+  "libmount.so.1" -> "libselinux.so.1"
+  "libmount.so.1" -> "libc.so.6"
+  "libaudit.so.1.0.0" -> "libcap-ng.so.0"
+  "libaudit.so.1.0.0" -> "libc.so.6"
+  "libdl.so.2" -> "libc.so.6"
+  "libmvec.so.1" -> "libm.so.6"
+  "libmvec.so.1" -> "libc.so.6"
+  "libmvec.so.1" -> "ld-linux-x86-64.so.2"
+  "liblzma.so.5" -> "libc.so.6"
+  "libmpfr.so.6" -> "libgmp.so.10"
+  "libmpfr.so.6" -> "libc.so.6"
+  "libmpfr.so.6" -> "ld-linux-x86-64.so.2"
+  "libgssrpc.so.4" -> "libgssapi_krb5.so.2"
+  "libgssrpc.so.4" -> "libkrb5.so.3"
+  "libgssrpc.so.4" -> "libk5crypto.so.3"
+  "libgssrpc.so.4" -> "libcom_err.so.2"
+  "libgssrpc.so.4" -> "libkeyutils.so.1"
+  "libgssrpc.so.4" -> "libcrypto.so.3"
+  "libgssrpc.so.4" -> "libresolv.so.2"
+  "libgssrpc.so.4" -> "libc.so.6"
+  "libk5crypto.so.3.1" -> "libkrb5support.so.0"
+  "libk5crypto.so.3.1" -> "libkeyutils.so.1"
+  "libk5crypto.so.3.1" -> "libcrypto.so.3"
+  "libk5crypto.so.3.1" -> "libresolv.so.2"
+  "libk5crypto.so.3.1" -> "libc.so.6"
+  "libk5crypto.so.3.1" -> "ld-linux-x86-64.so.2"
+  "libsigsegv.so.2.0.6" -> "libc.so.6"
+  "libhistory.so.8" -> "libc.so.6"
+  "libxml2.so.2.10.4" -> "libz.so.1"
+  "libxml2.so.2.10.4" -> "liblzma.so.5"
+  "libxml2.so.2.10.4" -> "libm.so.6"
+  "libxml2.so.2.10.4" -> "libc.so.6"
+  "libtic.so.6" -> "libtinfo.so.6"
+  "libtic.so.6" -> "libc.so.6"
+  "libauparse.so.0" -> "libaudit.so.1"
+  "libauparse.so.0" -> "libcap-ng.so.0"
+  "libauparse.so.0" -> "libc.so.6"
+  "libgdbm_compat.so.4.0.0" -> "libgdbm.so.6"
+  "libgdbm_compat.so.4.0.0" -> "libc.so.6"
+  "libsmartcols.so.1" -> "libc.so.6"
+  "libkrad.so.0.0" -> "libkrb5.so.3"
+  "libkrad.so.0.0" -> "libk5crypto.so.3"
+  "libkrad.so.0.0" -> "libcom_err.so.2"
+  "libkrad.so.0.0" -> "libkrb5support.so.0"
+  "libkrad.so.0.0" -> "libkeyutils.so.1"
+  "libkrad.so.0.0" -> "libcrypto.so.3"
+  "libkrad.so.0.0" -> "libresolv.so.2"
+  "libkrad.so.0.0" -> "libselinux.so.1"
+  "libkrad.so.0.0" -> "libverto.so.1"
+  "libkrad.so.0.0" -> "libc.so.6"
+  "libgssapi_krb5.so.2" -> "libkrb5.so.3"
+  "libgssapi_krb5.so.2" -> "libk5crypto.so.3"
+  "libgssapi_krb5.so.2" -> "libcom_err.so.2"
+  "libgssapi_krb5.so.2" -> "libkrb5support.so.0"
+  "libgssapi_krb5.so.2" -> "libkeyutils.so.1"
+  "libgssapi_krb5.so.2" -> "libcrypto.so.3"
+  "libgssapi_krb5.so.2" -> "libresolv.so.2"
+  "libgssapi_krb5.so.2" -> "libc.so.6"
+  "libssl.so.3.0.8" -> "libcrypto.so.3"
+  "libssl.so.3.0.8" -> "libc.so.6"
+  "libkrb5.so.3" -> "libk5crypto.so.3"
+  "libkrb5.so.3" -> "libcom_err.so.2"
+  "libkrb5.so.3" -> "libkrb5support.so.0"
+  "libkrb5.so.3" -> "libkeyutils.so.1"
+  "libkrb5.so.3" -> "libcrypto.so.3"
+  "libkrb5.so.3" -> "libresolv.so.2"
+  "libkrb5.so.3" -> "libc.so.6"
+  "libhistory.so.8.1" -> "libc.so.6"
+  "librpmsign.so.9.1.3" -> "librpm.so.9"
+  "librpmsign.so.9.1.3" -> "libcap.so.2"
+  "librpmsign.so.9.1.3" -> "libacl.so.1"
+  "librpmsign.so.9.1.3" -> "libsqlite3.so.0"
+  "librpmsign.so.9.1.3" -> "librpmio.so.9"
+  "librpmsign.so.9.1.3" -> "libbz2.so.1"
+  "librpmsign.so.9.1.3" -> "libz.so.1"
+  "librpmsign.so.9.1.3" -> "liblzma.so.5"
+  "librpmsign.so.9.1.3" -> "libzstd.so.1"
+  "librpmsign.so.9.1.3" -> "liblua-5.4.so"
+  "librpmsign.so.9.1.3" -> "libm.so.6"
+  "librpmsign.so.9.1.3" -> "libpopt.so.0"
+  "librpmsign.so.9.1.3" -> "libaudit.so.1"
+  "librpmsign.so.9.1.3" -> "libcrypto.so.3"
+  "librpmsign.so.9.1.3" -> "libc.so.6"
+  "libgcrypt.so.20" -> "libgpg-error.so.0"
+  "libgcrypt.so.20" -> "libc.so.6"
+  "libformw.so.6.2" -> "libncursesw.so.6"
+  "libformw.so.6.2" -> "libc.so.6"
+  "libblkid.so.1.1.0" -> "libc.so.6"
+  "libpcre2-posix.so.3.0.2" -> "libpcre2-8.so.0"
+  "libpcre2-posix.so.3.0.2" -> "libc.so.6"
+  "libdw-0.188.so" -> "libelf.so.1"
+  "libdw-0.188.so" -> "libz.so.1"
+  "libdw-0.188.so" -> "libzstd.so.1"
+  "libdw-0.188.so" -> "liblzma.so.5"
+  "libdw-0.188.so" -> "libbz2.so.1"
+  "libdw-0.188.so" -> "libc.so.6"
+  "libdw-0.188.so" -> "ld-linux-x86-64.so.2"
+  "libpsx.so.2" -> "libgcc_s.so.1"
+  "libpsx.so.2" -> "libc.so.6"
+  "libpthread.so.0" -> "libc.so.6"
+  "libsolv.so.1" -> "libcrypto.so.3"
+  "libsolv.so.1" -> "libc.so.6"
+  "libpanel.so.6.2" -> "libncurses.so.6"
+  "libpanel.so.6.2" -> "libc.so.6"
+  "libmenu.so.6" -> "libncurses.so.6"
+  "libmenu.so.6" -> "libc.so.6"
+  "libdw.so.1" -> "libelf.so.1"
+  "libdw.so.1" -> "libz.so.1"
+  "libdw.so.1" -> "libzstd.so.1"
+  "libdw.so.1" -> "liblzma.so.5"
+  "libdw.so.1" -> "libbz2.so.1"
+  "libdw.so.1" -> "libc.so.6"
+  "libdw.so.1" -> "ld-linux-x86-64.so.2"
+  "libreadline.so.8" -> "libtinfo.so.6"
+  "libreadline.so.8" -> "libc.so.6"
+  "libsepol.so.2" -> "libc.so.6"
+  "libverto.so.1.0.0" -> "libc.so.6"
+  "libtasn1.so.6" -> "libc.so.6"
+  "librpmio.so.9.1.3" -> "libbz2.so.1"
+  "librpmio.so.9.1.3" -> "libz.so.1"
+  "librpmio.so.9.1.3" -> "libpopt.so.0"
+  "librpmio.so.9.1.3" -> "liblzma.so.5"
+  "librpmio.so.9.1.3" -> "libzstd.so.1"
+  "librpmio.so.9.1.3" -> "liblua-5.4.so"
+  "librpmio.so.9.1.3" -> "libm.so.6"
+  "librpmio.so.9.1.3" -> "libaudit.so.1"
+  "librpmio.so.9.1.3" -> "libcrypto.so.3"
+  "librpmio.so.9.1.3" -> "libc.so.6"
+  "librpmio.so.9.1.3" -> "ld-linux-x86-64.so.2"
+  "libzstd.so.1" -> "libc.so.6"
+  "libresolv.so.2" -> "libc.so.6"
+  "libkrb5.so.3.3" -> "libk5crypto.so.3"
+  "libkrb5.so.3.3" -> "libcom_err.so.2"
+  "libkrb5.so.3.3" -> "libkrb5support.so.0"
+  "libkrb5.so.3.3" -> "libkeyutils.so.1"
+  "libkrb5.so.3.3" -> "libcrypto.so.3"
+  "libkrb5.so.3.3" -> "libresolv.so.2"
+  "libkrb5.so.3.3" -> "libc.so.6"
+  "libbz2.so.1.0.8" -> "libc.so.6"
+  "libunistring.so.2" -> "libc.so.6"
+  "libreadline.so.8.1" -> "libtinfo.so.6"
+  "libreadline.so.8.1" -> "libc.so.6"
+  "libm.so.6" -> "libc.so.6"
+  "libm.so.6" -> "ld-linux-x86-64.so.2"
+  "libstdc++.so.6.0.29" -> "libm.so.6"
+  "libstdc++.so.6.0.29" -> "libc.so.6"
+  "libstdc++.so.6.0.29" -> "ld-linux-x86-64.so.2"
+  "libstdc++.so.6.0.29" -> "libgcc_s.so.1"
+  "libformw.so.6" -> "libncursesw.so.6"
+  "libformw.so.6" -> "libc.so.6"
+  "libxml2.so.2" -> "libz.so.1"
+  "libxml2.so.2" -> "liblzma.so.5"
+  "libxml2.so.2" -> "libm.so.6"
+  "libxml2.so.2" -> "libc.so.6"
+  "libanl.so.1" -> "libc.so.6"
+  "libattr.so.1" -> "libc.so.6"
+  "libpsl.so.5.3.3" -> "libunistring.so.2"
+  "libpsl.so.5.3.3" -> "libidn2.so.0"
+  "libpsl.so.5.3.3" -> "libc.so.6"
+  "libsqlite3.so.0.8.6" -> "libm.so.6"
+  "libsqlite3.so.0.8.6" -> "libz.so.1"
+  "libsqlite3.so.0.8.6" -> "libc.so.6"
+  "libpopt.so.0" -> "libc.so.6"
+  "libpcre2-posix.so.3" -> "libpcre2-8.so.0"
+  "libpcre2-posix.so.3" -> "libc.so.6"
+  "libauparse.so.0.0.0" -> "libaudit.so.1"
+  "libauparse.so.0.0.0" -> "libcap-ng.so.0"
+  "libauparse.so.0.0.0" -> "libc.so.6"
+  "libpanelw.so.6.2" -> "libncursesw.so.6"
+  "libpanelw.so.6.2" -> "libc.so.6"
+  "libgobject-2.0.so.0" -> "libglib-2.0.so.0"
+  "libgobject-2.0.so.0" -> "libffi.so.8"
+  "libgobject-2.0.so.0" -> "libc.so.6"
+  "libarchive.so.13.7.4" -> "libcrypto.so.3"
+  "libarchive.so.13.7.4" -> "libacl.so.1"
+  "libarchive.so.13.7.4" -> "liblzma.so.5"
+  "libarchive.so.13.7.4" -> "libzstd.so.1"
+  "libarchive.so.13.7.4" -> "liblz4.so.1"
+  "libarchive.so.13.7.4" -> "libbz2.so.1"
+  "libarchive.so.13.7.4" -> "libz.so.1"
+  "libarchive.so.13.7.4" -> "libxml2.so.2"
+  "libarchive.so.13.7.4" -> "libc.so.6"
+  "libcrypt.so.2" -> "libc.so.6"
+  "libexpat.so.1.9.3" -> "libm.so.6"
+  "libexpat.so.1.9.3" -> "libc.so.6"
+  "libpsx.so.2.48" -> "libgcc_s.so.1"
+  "libpsx.so.2.48" -> "libc.so.6"
+  "libkeyutils.so.1" -> "libc.so.6"
+  "libgomp.so.1" -> "libc.so.6"
+  "libz.so.1.2.11" -> "libc.so.6"
+  "libpsl.so.5" -> "libunistring.so.2"
+  "libpsl.so.5" -> "libidn2.so.0"
+  "libpsl.so.5" -> "libc.so.6"
+  "libpcprofile.so" -> "libc.so.6"
+  "libasm.so.1" -> "libelf.so.1"
+  "libasm.so.1" -> "libdw.so.1"
+  "libasm.so.1" -> "libc.so.6"
+  "libasm.so.1" -> "ld-linux-x86-64.so.2"
+  "libkdb5.so.10" -> "libgssrpc.so.4"
+  "libkdb5.so.10" -> "libkrb5.so.3"
+  "libkdb5.so.10" -> "libk5crypto.so.3"
+  "libkdb5.so.10" -> "libcom_err.so.2"
+  "libkdb5.so.10" -> "libkrb5support.so.0"
+  "libkdb5.so.10" -> "libkeyutils.so.1"
+  "libkdb5.so.10" -> "libcrypto.so.3"
+  "libkdb5.so.10" -> "libresolv.so.2"
+  "libkdb5.so.10" -> "libc.so.6"
+  "libsqlite3.so.0" -> "libm.so.6"
+  "libsqlite3.so.0" -> "libz.so.1"
+  "libsqlite3.so.0" -> "libc.so.6"
+  "libarchive.so.13" -> "libcrypto.so.3"
+  "libarchive.so.13" -> "libacl.so.1"
+  "libarchive.so.13" -> "liblzma.so.5"
+  "libarchive.so.13" -> "libzstd.so.1"
+  "libarchive.so.13" -> "liblz4.so.1"
+  "libarchive.so.13" -> "libbz2.so.1"
+  "libarchive.so.13" -> "libz.so.1"
+  "libarchive.so.13" -> "libxml2.so.2"
+  "libarchive.so.13" -> "libc.so.6"
+  "libgdbm_compat.so.4" -> "libgdbm.so.6"
+  "libgdbm_compat.so.4" -> "libc.so.6"
+  "libzstd.so.1.5.5" -> "libc.so.6"
+  "libpython3.9.so.1.0" -> "libm.so.6"
+  "libpython3.9.so.1.0" -> "libc.so.6"
+  "liblz4.so.1.9.4" -> "libc.so.6"
+  "libgthread-2.0.so.0.7400.7" -> "libglib-2.0.so.0"
+  "libidn2.so.0" -> "libunistring.so.2"
+  "libidn2.so.0" -> "libc.so.6"
+  "libcurl.so.4.8.0" -> "libnghttp2.so.14"
+  "libcurl.so.4.8.0" -> "libidn2.so.0"
+  "libcurl.so.4.8.0" -> "libpsl.so.5"
+  "libcurl.so.4.8.0" -> "libssl.so.3"
+  "libcurl.so.4.8.0" -> "libcrypto.so.3"
+  "libcurl.so.4.8.0" -> "libgssapi_krb5.so.2"
+  "libcurl.so.4.8.0" -> "libz.so.1"
+  "libcurl.so.4.8.0" -> "libc.so.6"
+  "liblzma.so.5.2.5" -> "libc.so.6"
+  "libform.so.6" -> "libncurses.so.6"
+  "libform.so.6" -> "libc.so.6"
+  "libc.so.6" -> "ld-linux-x86-64.so.2"
+  "libacl.so.1" -> "libattr.so.1"
+  "libacl.so.1" -> "libc.so.6"
+  "libtic.so.6.2" -> "libtinfo.so.6"
+  "libtic.so.6.2" -> "libc.so.6"
+  "libsmartcols.so.1.1.0" -> "libc.so.6"
+  "libcap.so.2" -> "libc.so.6"
+  "libmpfr.so.6.1.0" -> "libgmp.so.10"
+  "libmpfr.so.6.1.0" -> "libc.so.6"
+  "libmpfr.so.6.1.0" -> "ld-linux-x86-64.so.2"
+  "libtasn1.so.6.6.3" -> "libc.so.6"
+  "p11-kit-proxy.so" -> "libffi.so.8"
+  "p11-kit-proxy.so" -> "libc.so.6"
+  "p11-kit-proxy.so" -> "ld-linux-x86-64.so.2"
+  "libcap-ng.so.0" -> "libc.so.6"
+  "libcap-ng.so.0" -> "ld-linux-x86-64.so.2"
+  "libBrokenLocale.so.1" -> "libc.so.6"
+  "libgpg-error.so.0.32.0" -> "libc.so.6"
+  "libgmodule-2.0.so.0" -> "libglib-2.0.so.0"
+  "libgmodule-2.0.so.0" -> "libc.so.6"
+  "librpmbuild.so.9" -> "librpm.so.9"
+  "librpmbuild.so.9" -> "libcap.so.2"
+  "librpmbuild.so.9" -> "libacl.so.1"
+  "librpmbuild.so.9" -> "libsqlite3.so.0"
+  "librpmbuild.so.9" -> "librpmio.so.9"
+  "librpmbuild.so.9" -> "libbz2.so.1"
+  "librpmbuild.so.9" -> "libz.so.1"
+  "librpmbuild.so.9" -> "liblzma.so.5"
+  "librpmbuild.so.9" -> "libzstd.so.1"
+  "librpmbuild.so.9" -> "liblua-5.4.so"
+  "librpmbuild.so.9" -> "libm.so.6"
+  "librpmbuild.so.9" -> "libpopt.so.0"
+  "librpmbuild.so.9" -> "libmagic.so.1"
+  "librpmbuild.so.9" -> "libelf.so.1"
+  "librpmbuild.so.9" -> "libdw.so.1"
+  "librpmbuild.so.9" -> "libaudit.so.1"
+  "librpmbuild.so.9" -> "libcrypto.so.3"
+  "librpmbuild.so.9" -> "libgomp.so.1"
+  "librpmbuild.so.9" -> "libgcc_s.so.1"
+  "librpmbuild.so.9" -> "libc.so.6"
+  "libcrypto.so.3" -> "libz.so.1"
+  "libcrypto.so.3" -> "libc.so.6"
+  "libcomps.so.0" -> "libexpat.so.1"
+  "libcomps.so.0" -> "libxml2.so.2"
+  "libcomps.so.0" -> "libm.so.6"
+  "libcomps.so.0" -> "libc.so.6"
+  "libcap-ng.so.0.0.0" -> "libc.so.6"
+  "libcap-ng.so.0.0.0" -> "ld-linux-x86-64.so.2"
+  "libk5crypto.so.3" -> "libkrb5support.so.0"
+  "libk5crypto.so.3" -> "libkeyutils.so.1"
+  "libk5crypto.so.3" -> "libcrypto.so.3"
+  "libk5crypto.so.3" -> "libresolv.so.2"
+  "libk5crypto.so.3" -> "libc.so.6"
+  "libk5crypto.so.3" -> "ld-linux-x86-64.so.2"
+  "libmodulemd.so.2.13.0" -> "libgobject-2.0.so.0"
+  "libmodulemd.so.2.13.0" -> "libglib-2.0.so.0"
+  "libmodulemd.so.2.13.0" -> "libmagic.so.1"
+  "libmodulemd.so.2.13.0" -> "librpmio.so.9"
+  "libmodulemd.so.2.13.0" -> "libyaml-0.so.2"
+  "libmodulemd.so.2.13.0" -> "libgcc_s.so.1"
+  "libmodulemd.so.2.13.0" -> "libc.so.6"
+  "libpanel.so.6" -> "libncurses.so.6"
+  "libpanel.so.6" -> "libc.so.6"
+  "libp11-kit.so.0.3.0" -> "libffi.so.8"
+  "libp11-kit.so.0.3.0" -> "libc.so.6"
+  "libp11-kit.so.0.3.0" -> "ld-linux-x86-64.so.2"
+  "libform.so.6.2" -> "libncurses.so.6"
+  "libform.so.6.2" -> "libc.so.6"
+  "libtinfo.so.6" -> "libc.so.6"
+  "libgdbm.so.6.0.0" -> "libc.so.6"
+  "libgdbm.so.6.0.0" -> "ld-linux-x86-64.so.2"
+  "libmagic.so.1" -> "libz.so.1"
+  "libmagic.so.1" -> "libc.so.6"
+  "libgmodule-2.0.so.0.7400.7" -> "libglib-2.0.so.0"
+  "libgmodule-2.0.so.0.7400.7" -> "libc.so.6"
+  "libgpgme.so.11" -> "libassuan.so.0"
+  "libgpgme.so.11" -> "libgpg-error.so.0"
+  "libgpgme.so.11" -> "libc.so.6"
+  "libgpgme.so.11" -> "ld-linux-x86-64.so.2"
+  "libgthread-2.0.so.0" -> "libglib-2.0.so.0"
+  "libnghttp2.so.14" -> "libc.so.6"
+  "libcrypt.so.2.0.0" -> "libc.so.6"
+  "libffi.so.8" -> "libc.so.6"
+  "libcurl.so.4" -> "libnghttp2.so.14"
+  "libcurl.so.4" -> "libidn2.so.0"
+  "libcurl.so.4" -> "libpsl.so.5"
+  "libcurl.so.4" -> "libssl.so.3"
+  "libcurl.so.4" -> "libcrypto.so.3"
+  "libcurl.so.4" -> "libgssapi_krb5.so.2"
+  "libcurl.so.4" -> "libz.so.1"
+  "libcurl.so.4" -> "libc.so.6"
+  "libbz2.so.1" -> "libc.so.6"
+  "libgssrpc.so.4.2" -> "libgssapi_krb5.so.2"
+  "libgssrpc.so.4.2" -> "libkrb5.so.3"
+  "libgssrpc.so.4.2" -> "libk5crypto.so.3"
+  "libgssrpc.so.4.2" -> "libcom_err.so.2"
+  "libgssrpc.so.4.2" -> "libkeyutils.so.1"
+  "libgssrpc.so.4.2" -> "libcrypto.so.3"
+  "libgssrpc.so.4.2" -> "libresolv.so.2"
+  "libgssrpc.so.4.2" -> "libc.so.6"
+  "libnss_compat.so.2" -> "libc.so.6"
+  "libkrb5support.so.0.1" -> "libkeyutils.so.1"
+  "libkrb5support.so.0.1" -> "libcrypto.so.3"
+  "libkrb5support.so.0.1" -> "libresolv.so.2"
+  "libkrb5support.so.0.1" -> "libselinux.so.1"
+  "libkrb5support.so.0.1" -> "libc.so.6"
+  "libgdbm.so.6" -> "libc.so.6"
+  "libgdbm.so.6" -> "ld-linux-x86-64.so.2"
+  "libpython3.so" -> "libpython3.9.so.1.0"
+  "libpython3.so" -> "libc.so.6"
+  "libgcrypt.so.20.4.2" -> "libgpg-error.so.0"
+  "libgcrypt.so.20.4.2" -> "libc.so.6"
+  "libexpat.so.1" -> "libm.so.6"
+  "libexpat.so.1" -> "libc.so.6"
+  "librpmbuild.so.9.1.3" -> "librpm.so.9"
+  "librpmbuild.so.9.1.3" -> "libcap.so.2"
+  "librpmbuild.so.9.1.3" -> "libacl.so.1"
+  "librpmbuild.so.9.1.3" -> "libsqlite3.so.0"
+  "librpmbuild.so.9.1.3" -> "librpmio.so.9"
+  "librpmbuild.so.9.1.3" -> "libbz2.so.1"
+  "librpmbuild.so.9.1.3" -> "libz.so.1"
+  "librpmbuild.so.9.1.3" -> "liblzma.so.5"
+  "librpmbuild.so.9.1.3" -> "libzstd.so.1"
+  "librpmbuild.so.9.1.3" -> "liblua-5.4.so"
+  "librpmbuild.so.9.1.3" -> "libm.so.6"
+  "librpmbuild.so.9.1.3" -> "libpopt.so.0"
+  "librpmbuild.so.9.1.3" -> "libmagic.so.1"
+  "librpmbuild.so.9.1.3" -> "libelf.so.1"
+  "librpmbuild.so.9.1.3" -> "libdw.so.1"
+  "librpmbuild.so.9.1.3" -> "libaudit.so.1"
+  "librpmbuild.so.9.1.3" -> "libcrypto.so.3"
+  "librpmbuild.so.9.1.3" -> "libgomp.so.1"
+  "librpmbuild.so.9.1.3" -> "libgcc_s.so.1"
+  "librpmbuild.so.9.1.3" -> "libc.so.6"
+  "libgssapi_krb5.so.2.2" -> "libkrb5.so.3"
+  "libgssapi_krb5.so.2.2" -> "libk5crypto.so.3"
+  "libgssapi_krb5.so.2.2" -> "libcom_err.so.2"
+  "libgssapi_krb5.so.2.2" -> "libkrb5support.so.0"
+  "libgssapi_krb5.so.2.2" -> "libkeyutils.so.1"
+  "libgssapi_krb5.so.2.2" -> "libcrypto.so.3"
+  "libgssapi_krb5.so.2.2" -> "libresolv.so.2"
+  "libgssapi_krb5.so.2.2" -> "libc.so.6"
+  "libgmp.so.10" -> "libc.so.6"
+  "libp11-kit.so.0" -> "libffi.so.8"
+  "libp11-kit.so.0" -> "libc.so.6"
+  "libp11-kit.so.0" -> "ld-linux-x86-64.so.2"
+  "librepo.so.0" -> "libxml2.so.2"
+  "librepo.so.0" -> "libcurl.so.4"
+  "librepo.so.0" -> "libcrypto.so.3"
+  "librepo.so.0" -> "libgpgme.so.11"
+  "librepo.so.0" -> "libglib-2.0.so.0"
+  "librepo.so.0" -> "libselinux.so.1"
+  "librepo.so.0" -> "libgcc_s.so.1"
+  "librepo.so.0" -> "libc.so.6"
+  "libverto.so.1" -> "libc.so.6"
+  "libtinfo.so.6.2" -> "libc.so.6"
+  "libelf.so.1" -> "libz.so.1"
+  "libelf.so.1" -> "libc.so.6"
+  "libelf.so.1" -> "ld-linux-x86-64.so.2"
+  "libffi.so.8.1.2" -> "libc.so.6"
+  "liblua-5.3.so" -> "libm.so.6"
+  "liblua-5.3.so" -> "libc.so.6"
+  "librpmio.so.9" -> "libbz2.so.1"
+  "librpmio.so.9" -> "libz.so.1"
+  "librpmio.so.9" -> "libpopt.so.0"
+  "librpmio.so.9" -> "liblzma.so.5"
+  "librpmio.so.9" -> "libzstd.so.1"
+  "librpmio.so.9" -> "liblua-5.4.so"
+  "librpmio.so.9" -> "libm.so.6"
+  "librpmio.so.9" -> "libaudit.so.1"
+  "librpmio.so.9" -> "libcrypto.so.3"
+  "librpmio.so.9" -> "libc.so.6"
+  "librpmio.so.9" -> "ld-linux-x86-64.so.2"
+  "librt.so.1" -> "libc.so.6"
+  "libgpgme.so.11.24.1" -> "libassuan.so.0"
+  "libgpgme.so.11.24.1" -> "libgpg-error.so.0"
+  "libgpgme.so.11.24.1" -> "libc.so.6"
+  "libgpgme.so.11.24.1" -> "ld-linux-x86-64.so.2"
+  "libelf-0.188.so" -> "libz.so.1"
+  "libelf-0.188.so" -> "libc.so.6"
+  "libelf-0.188.so" -> "ld-linux-x86-64.so.2"
+  "libnss_files.so.2" -> "libc.so.6"
+  "gpg2" -> "libgcrypt.so.20"
+  "gpg2" -> "libreadline.so.8"
+  "gpg2" -> "libassuan.so.0"
+  "gpg2" -> "libnpth.so.0"
+  "gpg2" -> "libgpg-error.so.0"
+  "gpg2" -> "libc.so.6"
+  "getconf" -> "libc.so.6"
+  "iconv" -> "libc.so.6"
+  "python3" -> "libpython3.9.so.1.0"
+  "python3" -> "libc.so.6"
+  "python3.9" -> "libpython3.9.so.1.0"
+  "python3.9" -> "libc.so.6"
+  "gpg-error" -> "libgpg-error.so.0"
+  "gpg-error" -> "libc.so.6"
+  "p11-kit" -> "libp11-kit.so.0"
+  "p11-kit" -> "libc.so.6"
+  "curl" -> "libcurl.so.4"
+  "curl" -> "libc.so.6"
+  "xmlwf" -> "libexpat.so.1"
+  "xmlwf" -> "libc.so.6"
+  "gapplication" -> "libgio-2.0.so.0"
+  "gapplication" -> "libglib-2.0.so.0"
+  "gapplication" -> "libgobject-2.0.so.0"
+  "gapplication" -> "libc.so.6"
+  "gio" -> "libgio-2.0.so.0"
+  "gio" -> "libglib-2.0.so.0"
+  "gio" -> "libgobject-2.0.so.0"
+  "gio" -> "libc.so.6"
+  "localedef" -> "libc.so.6"
+  "trust" -> "libp11-kit.so.0"
+  "trust" -> "libtasn1.so.6"
+  "trust" -> "libc.so.6"
+  "rpmkeys" -> "librpm.so.9"
+  "rpmkeys" -> "librpmio.so.9"
+  "rpmkeys" -> "libpopt.so.0"
+  "rpmkeys" -> "libc.so.6"
+  "rpm2cpio" -> "librpm.so.9"
+  "rpm2cpio" -> "librpmio.so.9"
+  "rpm2cpio" -> "libc.so.6"
+  "zdump" -> "libc.so.6"
+  "awk" -> "libsigsegv.so.2"
+  "awk" -> "libreadline.so.8"
+  "awk" -> "libmpfr.so.6"
+  "awk" -> "libgmp.so.10"
+  "awk" -> "libm.so.6"
+  "awk" -> "libc.so.6"
+  "xmllint" -> "libxml2.so.2"
+  "xmllint" -> "libc.so.6"
+  "gencat" -> "libc.so.6"
+  "glib-compile-schemas" -> "libgio-2.0.so.0"
+  "glib-compile-schemas" -> "libglib-2.0.so.0"
+  "glib-compile-schemas" -> "libc.so.6"
+  "locale" -> "libc.so.6"
+  "sprof" -> "libc.so.6"
+  "modulemd-validator" -> "libmodulemd.so.2"
+  "modulemd-validator" -> "libgobject-2.0.so.0"
+  "modulemd-validator" -> "libglib-2.0.so.0"
+  "modulemd-validator" -> "libyaml-0.so.2"
+  "modulemd-validator" -> "libgcc_s.so.1"
+  "modulemd-validator" -> "libc.so.6"
+  "getent" -> "libc.so.6"
+  "gpgme-json" -> "libm.so.6"
+  "gpgme-json" -> "libgpgme.so.11"
+  "gpgme-json" -> "libgpg-error.so.0"
+  "gpgme-json" -> "libc.so.6"
+  "gdbus" -> "libgio-2.0.so.0"
+  "gdbus" -> "libglib-2.0.so.0"
+  "gdbus" -> "libgobject-2.0.so.0"
+  "gdbus" -> "libc.so.6"
+  "pldd" -> "libc.so.6"
+  "rpmquery" -> "librpm.so.9"
+  "rpmquery" -> "librpmio.so.9"
+  "rpmquery" -> "libpopt.so.0"
+  "rpmquery" -> "libc.so.6"
+  "gawk" -> "libsigsegv.so.2"
+  "gawk" -> "libreadline.so.8"
+  "gawk" -> "libmpfr.so.6"
+  "gawk" -> "libgmp.so.10"
+  "gawk" -> "libm.so.6"
+  "gawk" -> "libc.so.6"
+  "rpmdb" -> "librpm.so.9"
+  "rpmdb" -> "librpmio.so.9"
+  "rpmdb" -> "libpopt.so.0"
+  "rpmdb" -> "libc.so.6"
+  "rpm" -> "librpm.so.9"
+  "rpm" -> "librpmio.so.9"
+  "rpm" -> "libpopt.so.0"
+  "rpm" -> "libc.so.6"
+  "rpmverify" -> "librpm.so.9"
+  "rpmverify" -> "librpmio.so.9"
+  "rpmverify" -> "libpopt.so.0"
+  "rpmverify" -> "libc.so.6"
+  "sed" -> "libacl.so.1"
+  "sed" -> "libselinux.so.1"
+  "sed" -> "libc.so.6"
+  "coreutils" -> "libselinux.so.1"
+  "coreutils" -> "libacl.so.1"
+  "coreutils" -> "libattr.so.1"
+  "coreutils" -> "libcap.so.2"
+  "coreutils" -> "libc.so.6"
+  "rpm2archive" -> "librpm.so.9"
+  "rpm2archive" -> "librpmio.so.9"
+  "rpm2archive" -> "libpopt.so.0"
+  "rpm2archive" -> "libarchive.so.13"
+  "rpm2archive" -> "libc.so.6"
+  "gio-querymodules-64" -> "libgmodule-2.0.so.0"
+  "gio-querymodules-64" -> "libglib-2.0.so.0"
+  "gio-querymodules-64" -> "libgobject-2.0.so.0"
+  "gio-querymodules-64" -> "libc.so.6"
+  "xmlcatalog" -> "libxml2.so.2"
+  "xmlcatalog" -> "libc.so.6"
+  "gpg" -> "libgcrypt.so.20"
+  "gpg" -> "libreadline.so.8"
+  "gpg" -> "libassuan.so.0"
+  "gpg" -> "libnpth.so.0"
+  "gpg" -> "libgpg-error.so.0"
+  "gpg" -> "libc.so.6"
+  "grep" -> "libpcre2-8.so.0"
+  "grep" -> "libc.so.6"
+  "bash" -> "libtinfo.so.6"
+  "bash" -> "libc.so.6"
+  "sh" -> "libtinfo.so.6"
+  "sh" -> "libc.so.6"
+  "gsettings" -> "libgio-2.0.so.0"
+  "gsettings" -> "libglib-2.0.so.0"
+  "gsettings" -> "libgobject-2.0.so.0"
+  "gsettings" -> "libc.so.6"
+  "setcap" -> "libcap.so.2"
+  "setcap" -> "libc.so.6"
+  "capsh" -> "libcap.so.2"
+  "capsh" -> "libc.so.6"
+  "getcap" -> "libcap.so.2"
+  "getcap" -> "libc.so.6"
+  "alternatives" -> "libc.so.6"
+  "getpcaps" -> "libcap.so.2"
+  "getpcaps" -> "libc.so.6"
+  "zic" -> "libc.so.6"
+  "update-alternatives" -> "libc.so.6"
+  "iconvconfig" -> "libc.so.6"
+  "gpg2" -> "libgcrypt.so.20"
+  "gpg2" -> "libreadline.so.8"
+  "gpg2" -> "libassuan.so.0"
+  "gpg2" -> "libnpth.so.0"
+  "gpg2" -> "libgpg-error.so.0"
+  "gpg2" -> "libc.so.6"
+  "getconf" -> "libc.so.6"
+  "iconv" -> "libc.so.6"
+  "python3" -> "libpython3.9.so.1.0"
+  "python3" -> "libc.so.6"
+  "python3.9" -> "libpython3.9.so.1.0"
+  "python3.9" -> "libc.so.6"
+  "gpg-error" -> "libgpg-error.so.0"
+  "gpg-error" -> "libc.so.6"
+  "p11-kit" -> "libp11-kit.so.0"
+  "p11-kit" -> "libc.so.6"
+  "curl" -> "libcurl.so.4"
+  "curl" -> "libc.so.6"
+  "xmlwf" -> "libexpat.so.1"
+  "xmlwf" -> "libc.so.6"
+  "gapplication" -> "libgio-2.0.so.0"
+  "gapplication" -> "libglib-2.0.so.0"
+  "gapplication" -> "libgobject-2.0.so.0"
+  "gapplication" -> "libc.so.6"
+  "gio" -> "libgio-2.0.so.0"
+  "gio" -> "libglib-2.0.so.0"
+  "gio" -> "libgobject-2.0.so.0"
+  "gio" -> "libc.so.6"
+  "localedef" -> "libc.so.6"
+  "trust" -> "libp11-kit.so.0"
+  "trust" -> "libtasn1.so.6"
+  "trust" -> "libc.so.6"
+  "rpmkeys" -> "librpm.so.9"
+  "rpmkeys" -> "librpmio.so.9"
+  "rpmkeys" -> "libpopt.so.0"
+  "rpmkeys" -> "libc.so.6"
+  "rpm2cpio" -> "librpm.so.9"
+  "rpm2cpio" -> "librpmio.so.9"
+  "rpm2cpio" -> "libc.so.6"
+  "zdump" -> "libc.so.6"
+  "awk" -> "libsigsegv.so.2"
+  "awk" -> "libreadline.so.8"
+  "awk" -> "libmpfr.so.6"
+  "awk" -> "libgmp.so.10"
+  "awk" -> "libm.so.6"
+  "awk" -> "libc.so.6"
+  "xmllint" -> "libxml2.so.2"
+  "xmllint" -> "libc.so.6"
+  "gencat" -> "libc.so.6"
+  "glib-compile-schemas" -> "libgio-2.0.so.0"
+  "glib-compile-schemas" -> "libglib-2.0.so.0"
+  "glib-compile-schemas" -> "libc.so.6"
+  "locale" -> "libc.so.6"
+  "sprof" -> "libc.so.6"
+  "modulemd-validator" -> "libmodulemd.so.2"
+  "modulemd-validator" -> "libgobject-2.0.so.0"
+  "modulemd-validator" -> "libglib-2.0.so.0"
+  "modulemd-validator" -> "libyaml-0.so.2"
+  "modulemd-validator" -> "libgcc_s.so.1"
+  "modulemd-validator" -> "libc.so.6"
+  "getent" -> "libc.so.6"
+  "gpgme-json" -> "libm.so.6"
+  "gpgme-json" -> "libgpgme.so.11"
+  "gpgme-json" -> "libgpg-error.so.0"
+  "gpgme-json" -> "libc.so.6"
+  "gdbus" -> "libgio-2.0.so.0"
+  "gdbus" -> "libglib-2.0.so.0"
+  "gdbus" -> "libgobject-2.0.so.0"
+  "gdbus" -> "libc.so.6"
+  "pldd" -> "libc.so.6"
+  "rpmquery" -> "librpm.so.9"
+  "rpmquery" -> "librpmio.so.9"
+  "rpmquery" -> "libpopt.so.0"
+  "rpmquery" -> "libc.so.6"
+  "gawk" -> "libsigsegv.so.2"
+  "gawk" -> "libreadline.so.8"
+  "gawk" -> "libmpfr.so.6"
+  "gawk" -> "libgmp.so.10"
+  "gawk" -> "libm.so.6"
+  "gawk" -> "libc.so.6"
+  "rpmdb" -> "librpm.so.9"
+  "rpmdb" -> "librpmio.so.9"
+  "rpmdb" -> "libpopt.so.0"
+  "rpmdb" -> "libc.so.6"
+  "rpm" -> "librpm.so.9"
+  "rpm" -> "librpmio.so.9"
+  "rpm" -> "libpopt.so.0"
+  "rpm" -> "libc.so.6"
+  "rpmverify" -> "librpm.so.9"
+  "rpmverify" -> "librpmio.so.9"
+  "rpmverify" -> "libpopt.so.0"
+  "rpmverify" -> "libc.so.6"
+  "sed" -> "libacl.so.1"
+  "sed" -> "libselinux.so.1"
+  "sed" -> "libc.so.6"
+  "coreutils" -> "libselinux.so.1"
+  "coreutils" -> "libacl.so.1"
+  "coreutils" -> "libattr.so.1"
+  "coreutils" -> "libcap.so.2"
+  "coreutils" -> "libc.so.6"
+  "rpm2archive" -> "librpm.so.9"
+  "rpm2archive" -> "librpmio.so.9"
+  "rpm2archive" -> "libpopt.so.0"
+  "rpm2archive" -> "libarchive.so.13"
+  "rpm2archive" -> "libc.so.6"
+  "gio-querymodules-64" -> "libgmodule-2.0.so.0"
+  "gio-querymodules-64" -> "libglib-2.0.so.0"
+  "gio-querymodules-64" -> "libgobject-2.0.so.0"
+  "gio-querymodules-64" -> "libc.so.6"
+  "xmlcatalog" -> "libxml2.so.2"
+  "xmlcatalog" -> "libc.so.6"
+  "gpg" -> "libgcrypt.so.20"
+  "gpg" -> "libreadline.so.8"
+  "gpg" -> "libassuan.so.0"
+  "gpg" -> "libnpth.so.0"
+  "gpg" -> "libgpg-error.so.0"
+  "gpg" -> "libc.so.6"
+  "grep" -> "libpcre2-8.so.0"
+  "grep" -> "libc.so.6"
+  "bash" -> "libtinfo.so.6"
+  "bash" -> "libc.so.6"
+  "sh" -> "libtinfo.so.6"
+  "sh" -> "libc.so.6"
+  "gsettings" -> "libgio-2.0.so.0"
+  "gsettings" -> "libglib-2.0.so.0"
+  "gsettings" -> "libgobject-2.0.so.0"
+  "gsettings" -> "libc.so.6"
+  "setcap" -> "libcap.so.2"
+  "setcap" -> "libc.so.6"
+  "capsh" -> "libcap.so.2"
+  "capsh" -> "libc.so.6"
+  "getcap" -> "libcap.so.2"
+  "getcap" -> "libc.so.6"
+  "alternatives" -> "libc.so.6"
+  "getpcaps" -> "libcap.so.2"
+  "getpcaps" -> "libc.so.6"
+  "zic" -> "libc.so.6"
+  "update-alternatives" -> "libc.so.6"
+  "iconvconfig" -> "libc.so.6"
+
+}
