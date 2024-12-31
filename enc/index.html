@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Symmetric Encryption</title>
+    <script src="/enc/crypto.js"></script>
+</head>
+
+<body>
+    <h1>Symmetric Encryption</h1>
+
+    <section id="key-management">
+        <input type="text" size="32" id="aes-key" />
+        <button id="generate-key">Generate Random AES Key</button>
+    </section>
+
+    <section id="encrypt-and-decrypt">
+        <input type="file" id="source-file"/>
+        <button id="encrypt">Encrypt File</button>
+        <button id="decrypt">Decrypt File</button>
+    </section>
+
+    <section id="results">
+        Download results:
+        <ul id="download-links">
+        </ul>
+    </section>
+</body>
+</html>
