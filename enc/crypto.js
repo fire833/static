@@ -130,6 +130,10 @@ document.addEventListener("DOMContentLoaded", function () {
     // hex encoded value is in the 'aes-key' input box,
     // then create a download link for the result.
 
+    const params = new URLSearchParams(window.location.search);
+    const key = params.get("key");
+    const url = params.get("url");
+
     // The file to decrypt
     var sourceFile = document.getElementById("source-file").files[0];
 
@@ -137,10 +141,19 @@ document.addEventListener("DOMContentLoaded", function () {
     var aesKeyBytes = hexStringToByteArray(
       document.getElementById("aes-key").value
     );
+
+    if (aesKeyBytes === null || aesKeyBytes.length <= 0) aesKeyBytes = key;
     var aesKey; // To be created below
 
+    var reader;
+    // if (url !== "") {
+    //   fetch(url, { method: "GET" }).then((res) => {
+    //     reader = res.body.getReader();
+    //   });
+    // } else {
     // Set up the file reader
-    var reader = new FileReader();
+    reader = new FileReader();
+    // }
 
     // Once read, decrypt, create a Blob and add link
     reader.onload = function () {
